@@ -147,10 +147,10 @@ function renderStudyView() {
           <div class="filter-exam-select">
             <label style="font-size: 0.85rem; color: var(--text-muted); margin-right: 8px;">Lọc theo đề gốc:</label>
             <select onchange="changeStudyFilter(this.value)" class="custom-select">
-              <option value="ALL" ${examState.studyFilterExam === 'ALL' ? 'selected' : ''}>Tất cả 3 đề (${exam.total} câu)</option>
-              <option value="NWC204_SU26_FE" ${examState.studyFilterExam === 'NWC204_SU26_FE' ? 'selected' : ''}>Đề 1 (SU26 FE - 50 câu)</option>
-              <option value="NWC204_SU26_RE" ${examState.studyFilterExam === 'NWC204_SU26_RE' ? 'selected' : ''}>Đề 2 (SU26 RE - 50 câu)</option>
-              <option value="NWC204_SP26_RE" ${examState.studyFilterExam === 'NWC204_SP26_RE' ? 'selected' : ''}>Đề 3 (SP26 RE Ảnh - 50 câu)</option>
+              <option value="ALL" ${examState.studyFilterExam === 'ALL' ? 'selected' : ''}>Tất cả ${exams.length - 1} đề (${exam.total} câu)</option>
+              ${exams.filter(e => !e.isAll).map(e => `
+                <option value="${e.code}" ${examState.studyFilterExam === e.code ? 'selected' : ''}>${e.shortTitle} - ${e.total} câu</option>
+              `).join('')}
             </select>
           </div>
         ` : ''}
@@ -357,7 +357,7 @@ function renderExamView() {
               <select onchange="startNewExamSession(parseInt(this.value))" class="custom-select">
                 <option value="50" ${examState.selectedQuestionCount === 50 ? 'selected' : ''}>50 Câu (60 phút)</option>
                 <option value="100" ${examState.selectedQuestionCount === 100 ? 'selected' : ''}>100 Câu (90 phút)</option>
-                <option value="150" ${examState.selectedQuestionCount === 150 ? 'selected' : ''}>Toàn bộ 150 Câu (120 phút)</option>
+                <option value="${exam.total}" ${examState.selectedQuestionCount === exam.total ? 'selected' : ''}>Toàn bộ ${exam.total} Câu (120 phút)</option>
               </select>
             </div>
           ` : ''}
