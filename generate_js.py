@@ -73,6 +73,14 @@ exam_configs = [
         "shortTitle": "Đề 8 (SU25 RE Ảnh)",
         "type": "image",
         "filename": "NWC204_SU25_RE.json"
+    },
+    {
+        "id": "exam_9",
+        "code": "NWC204_SU25_FE",
+        "title": "Đề 9: Đề Thi FE - NWC204 - SU25 - FE (Đề Ảnh)",
+        "shortTitle": "Đề 9 (SU25 FE Ảnh)",
+        "type": "image",
+        "filename": "NWC204_SU25_FE.json"
     }
 ]
 
