@@ -14,7 +14,7 @@
   <script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.8/dist/contrib/auto-render.min.js"></script>
 
   <!-- Stylesheet -->
-  <link rel="stylesheet" href="style.css?v=20261117_9">
+  <link rel="stylesheet" href="style.css?v=20261117_10">
 </head>
 <body>
 
@@ -42,18 +42,21 @@
     </div>
   </div>
 
-  <!-- Thanh chọn chế độ Ôn tập / Thi thử -->
+  <!-- Thanh chọn chế độ Ôn tập / Thi thử Luyện tập / Thi thử Chuẩn FE -->
   <div class="mode-bar-container">
     <div class="mode-switcher">
       <button class="mode-btn active" id="btnModeStudy" onclick="setMode('study')">
         <span>📖</span> Chế độ Ôn Tập (Xem Đáp Án)
       </button>
+      <button class="mode-btn" id="btnModePractice" onclick="setMode('practice')">
+        <span>⚡</span> Thi Thử Luyện Tập (Báo Đúng/Sai Ngay)
+      </button>
       <button class="mode-btn" id="btnModeExam" onclick="setMode('exam')">
-        <span>⏱️</span> Chế độ Thi Thử (Tráo Câu & Chấm Điểm)
+        <span>⏱️</span> Chế độ Thi Thử Chuẩn FE (Tính Giờ & Nộp Bài)
       </button>
     </div>
     <div style="font-size: 0.85rem; color: var(--text-muted);">
-      💡 Mẹo: Khi "Thi thử", câu hỏi sẽ tự động được xáo trộn ngẫu nhiên để kiểm tra phản xạ!
+      💡 Mẹo: Chọn <strong>"Thi Thử Luyện Tập"</strong> để làm tới đâu biết ngay kết quả tới đó, hoặc <strong>"Thi Thử Chuẩn FE"</strong> để thi tính giờ và nộp bài chuẩn format!
     </div>
   </div>
 
@@ -103,7 +106,7 @@
   </div>
 
   <!-- Scripts -->
-  <script src="exams.js?v=20261117_9"></script>
-  <script src="app.js?v=20261117_9"></script>
+  <script src="exams.js?v=20261117_10"></script>
+  <script src="app.js?v=20261117_10"></script>
 </body>
 </html>

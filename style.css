@@ -191,14 +191,16 @@ header {
   padding: 4px;
   border-radius: var(--radius-lg);
   border: 1px solid var(--card-border);
+  flex-wrap: wrap;
+  gap: 4px;
 }
 
 .mode-btn {
   background: transparent;
   border: none;
   color: var(--text-muted);
-  padding: 10px 22px;
-  font-size: 0.95rem;
+  padding: 9px 18px;
+  font-size: 0.92rem;
   font-weight: 600;
   border-radius: var(--radius-md);
   cursor: pointer;
@@ -206,10 +208,12 @@ header {
   display: flex;
   align-items: center;
   gap: 8px;
+  white-space: nowrap;
 }
 
 .mode-btn:hover {
   color: var(--text-main);
+  background: rgba(255, 255, 255, 0.05);
 }
 
 .mode-btn.active {
@@ -1103,4 +1107,111 @@ header {
 }
 .all-card.active .picker-status {
   color: #fbbf24;
+}
+
+
+/* ============================================================
+   PRACTICE MODE (CHỌN TỚI ĐÂU BÁO ĐÚNG/SAI TỚI ĐÓ)
+============================================================ */
+.question-card.confirmed .option-row {
+  cursor: default !important;
+}
+
+.question-card.confirmed .option-row:hover {
+  transform: none !important;
+}
+
+.btn-check-answer {
+  background: linear-gradient(135deg, #0284c7 0%, #0369a1 100%);
+  color: #fff;
+  border: 1px solid rgba(255, 255, 255, 0.15);
+  padding: 9px 20px;
+  border-radius: var(--radius-sm);
+  font-weight: 700;
+  font-size: 0.9rem;
+  cursor: pointer;
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  margin-top: 14px;
+  transition: all 0.2s ease;
+  box-shadow: 0 4px 12px rgba(2, 132, 199, 0.3);
+}
+
+.btn-check-answer:hover {
+  background: linear-gradient(135deg, #0369a1 0%, #075985 100%);
+  transform: translateY(-2px);
+  box-shadow: 0 6px 16px rgba(2, 132, 199, 0.4);
+}
+
+.btn-check-answer:active {
+  transform: translateY(0);
+}
+
+.instant-feedback-box {
+  margin-top: 14px;
+  padding: 12px 18px;
+  border-radius: var(--radius-sm);
+  font-size: 0.95rem;
+  font-weight: 600;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 10px;
+  animation: feedbackPop 0.25s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+}
+
+@keyframes feedbackPop {
+  0% { opacity: 0; transform: scale(0.96) translateY(-4px); }
+  100% { opacity: 1; transform: scale(1) translateY(0); }
+}
+
+.instant-feedback-box.correct {
+  background: rgba(34, 197, 94, 0.18);
+  border: 1.5px solid var(--success);
+  color: #86efac;
+}
+
+.instant-feedback-box.wrong {
+  background: rgba(239, 68, 68, 0.18);
+  border: 1.5px solid var(--danger);
+  color: #fca5a5;
+}
+
+.practice-stats-bar {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  flex-wrap: wrap;
+}
+
+.practice-stat-tag {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  padding: 6px 14px;
+  border-radius: var(--radius-md);
+  font-size: 0.85rem;
+  font-weight: 700;
+  background: rgba(255, 255, 255, 0.05);
+  border: 1px solid var(--card-border);
+}
+
+.practice-stat-tag.tag-correct {
+  color: #4ade80;
+  background: rgba(34, 197, 94, 0.12);
+  border-color: rgba(34, 197, 94, 0.3);
+}
+
+.practice-stat-tag.tag-wrong {
+  color: #f87171;
+  background: rgba(239, 68, 68, 0.12);
+  border-color: rgba(239, 68, 68, 0.3);
+}
+
+.practice-stat-tag.tag-score {
+  color: #38bdf8;
+  background: rgba(56, 189, 248, 0.12);
+  border-color: rgba(56, 189, 248, 0.3);
 }
