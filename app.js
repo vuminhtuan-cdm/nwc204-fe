@@ -16,6 +16,16 @@ let examState = {
   studyFilterExam: 'ALL' // 'ALL' | 'NWC204_SU26_FE' | ...
 };
 
+function getExams() {
+  if (typeof window !== 'undefined' && window.EXAMS_DATA && window.EXAMS_DATA.length > 0) {
+    return window.EXAMS_DATA;
+  }
+  if (typeof EXAMS_DATA !== 'undefined' && EXAMS_DATA.length > 0) {
+    return EXAMS_DATA;
+  }
+  return [];
+}
+
 // Khởi chạy khi load trang
 document.addEventListener('DOMContentLoaded', () => {
   renderHeaderTabs();
@@ -25,14 +35,18 @@ document.addEventListener('DOMContentLoaded', () => {
 // Render danh sách các tab đề thi (3 đề + 1 đề tổng hợp)
 function renderHeaderTabs() {
   const container = document.getElementById('examTabs');
-  if (!container || !window.EXAMS_DATA) return;
+  if (!container) return;
+  const exams = getExams();
+  if (exams.length === 0) return;
+  
   container.innerHTML = '';
   
-  EXAMS_DATA.forEach((exam, idx) => {
+  exams.forEach((exam, idx) => {
     const btn = document.createElement('button');
     const isSpecial = exam.isAll;
+    const icon = isSpecial ? '🔥' : (exam.type === 'image' ? '📸' : '📝');
     btn.className = `exam-tab-btn ${idx === currentExamIdx ? 'active' : ''} ${isSpecial ? 'special-tab' : ''}`;
-    btn.innerHTML = `${isSpecial ? '🔥' : '📝'} ${exam.shortTitle}`;
+    btn.innerHTML = `<span>${icon}</span> <span>${exam.shortTitle}</span> <span class="tab-badge">${exam.total} câu</span>`;
     btn.onclick = () => selectExam(idx);
     container.appendChild(btn);
   });
@@ -79,7 +93,8 @@ function loadCurrentExam() {
    CHẾ ĐỘ 1: ÔN TẬP (HIỆN CÂU HỎI VÀ ĐÁP ÁN ĐỂ HỌC THUỘC)
 ============================================================ */
 function renderStudyView() {
-  const exam = EXAMS_DATA[currentExamIdx];
+  const exams = getExams();
+  const exam = exams[currentExamIdx] || exams[0];
   const container = document.getElementById('appContent');
   if (!container || !exam) return;
   const isAll = !!exam.isAll;
@@ -91,16 +106,35 @@ function renderStudyView() {
   }
 
   // Thống kê phân bố đáp án A, B, C, D
-  const countA = exam.counts['A'] || 0;
-  const countB = exam.counts['B'] || 0;
-  const countC = exam.counts['C'] || 0;
-  const countD = exam.counts['D'] || 0;
+  const countA = (exam.counts && exam.counts['A']) || 0;
+  const countB = (exam.counts && exam.counts['B']) || 0;
+  const countC = (exam.counts && exam.counts['C']) || 0;
+  const countD = (exam.counts && exam.counts['D']) || 0;
 
   container.innerHTML = `
+    <!-- Thẻ chọn Đề thi nhanh (Trực quan, dễ thấy 100%) -->
+    <div class="exam-picker-container">
+      <div class="exam-picker-header">
+        <span class="exam-picker-title">📚 CHỌN ĐỀ THI ĐỂ ÔN TẬP / THI THỬ (HIỆN CÓ ${exams.length} BỘ ĐỀ):</span>
+      </div>
+      <div class="exam-picker-grid">
+        ${exams.map((ex, idx) => `
+          <div class="exam-picker-card ${idx === currentExamIdx ? 'active' : ''} ${ex.isAll ? 'all-card' : ''}" onclick="selectExam(${idx})">
+            <div class="picker-top">
+              <span class="picker-icon">${ex.isAll ? '🔥' : (ex.type === 'image' ? '📸' : '📝')}</span>
+              <span class="picker-badge">${ex.total} câu</span>
+            </div>
+            <div class="picker-title">${ex.shortTitle}</div>
+            <div class="picker-status">${idx === currentExamIdx ? '👉 Đang xem đề này' : 'Bấm để chuyển đề'}</div>
+          </div>
+        `).join('')}
+      </div>
+    </div>
+
     <div class="exam-summary-card">
       <div class="summary-header">
         <div>
-          <div class="summary-title">📖 CHẾ ĐỘ ÔN TẬP: ${exam.title}</div>
+          <div class="summary-title">📖 ĐANG XEM: ${exam.title}</div>
           <div class="summary-meta">Hiển thị trọn vẹn ${filteredQuestions.length} câu hỏi có sẵn đáp án đúng chuẩn 100%</div>
         </div>
         ${isAll ? `
@@ -209,7 +243,8 @@ function renderStudyQuestionCard(q, displayNum) {
    CHẾ ĐỘ 2: THI THỬ (TRÁO CÂU, TÙY CHỌN 50/100/150 CÂU, CHẤM ĐIỂM)
 ============================================================ */
 function startNewExamSession(customCount) {
-  const exam = EXAMS_DATA[currentExamIdx];
+  const exams = getExams();
+  const exam = exams[currentExamIdx] || exams[0];
   const isAll = !!exam.isAll;
 
   // Xác định số lượng câu thi
@@ -278,12 +313,28 @@ function updateTimerDisplay() {
 }
 
 function renderExamView() {
-  const exam = EXAMS_DATA[currentExamIdx];
+  const exams = getExams();
+  const exam = exams[currentExamIdx] || exams[0];
   const container = document.getElementById('appContent');
   const isAll = !!exam.isAll;
   const total = examState.shuffledQuestions.length;
 
   container.innerHTML = `
+    <!-- Thẻ chọn Đề thi nhanh trong chế độ Thi thử -->
+    <div class="exam-picker-container" style="margin-bottom: 16px;">
+      <div class="exam-picker-grid">
+        ${exams.map((ex, idx) => `
+          <div class="exam-picker-card ${idx === currentExamIdx ? 'active' : ''} ${ex.isAll ? 'all-card' : ''}" onclick="selectExam(${idx})">
+            <div class="picker-top">
+              <span class="picker-icon">${ex.isAll ? '🔥' : (ex.type === 'image' ? '📸' : '📝')}</span>
+              <span class="picker-badge">${ex.total} câu</span>
+            </div>
+            <div class="picker-title">${ex.shortTitle}</div>
+            <div class="picker-status">${idx === currentExamIdx ? '👉 Đang thi đề này' : 'Bấm để thi đề này'}</div>
+          </div>
+        `).join('')}
+      </div>
+    </div>
     <div class="exam-header-sticky">
       <div class="exam-header-content">
         <div class="exam-title-group">

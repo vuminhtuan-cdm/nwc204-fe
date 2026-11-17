@@ -1,5 +1,5 @@
 // Dữ liệu các bộ đề thi NWC204 - Mạng máy tính
-const EXAMS_DATA = [
+var EXAMS_DATA = [
   {
     "id": "exam_1",
     "code": "NWC204_SU26_FE",
@@ -14657,3 +14657,4 @@ const EXAMS_DATA = [
     "total": 150
   }
 ];
+if (typeof window !== 'undefined') { window.EXAMS_DATA = EXAMS_DATA; }
