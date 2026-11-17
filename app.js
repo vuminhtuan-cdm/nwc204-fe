@@ -27,10 +27,16 @@ function getExams() {
 }
 
 // Khởi chạy khi load trang
-document.addEventListener('DOMContentLoaded', () => {
+function initApp() {
   renderHeaderTabs();
   loadCurrentExam();
-});
+}
+
+if (document.readyState === 'loading') {
+  document.addEventListener('DOMContentLoaded', initApp);
+} else {
+  initApp();
+}
 
 // Render danh sách các tab đề thi (3 đề + 1 đề tổng hợp)
 function renderHeaderTabs() {
