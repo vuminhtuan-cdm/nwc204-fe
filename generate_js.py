@@ -49,6 +49,14 @@ exam_configs = [
         "shortTitle": "Đề 5 (FA25 RE Ảnh)",
         "type": "image",
         "filename": "NWC204_FA25_RE.json"
+    },
+    {
+        "id": "exam_6",
+        "code": "NWC204_FA25_FE",
+        "title": "Đề 6: Đề Thi FE - NWC204 - FA25 - FE (Đề Ảnh)",
+        "shortTitle": "Đề 6 (FA25 FE Ảnh)",
+        "type": "image",
+        "filename": "NWC204_FA25_FE.json"
     }
 ]
 
