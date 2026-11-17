@@ -20244,10 +20244,3237 @@ var EXAMS_DATA = [
     "total": 50
   },
   {
+    "id": "exam_8",
+    "code": "NWC204_SU25_RE",
+    "title": "Đề 8: Đề Thi FE - NWC204 - SU25 - RE (Đề Ảnh)",
+    "shortTitle": "Đề 8 (SU25 RE Ảnh)",
+    "type": "image",
+    "filename": "NWC204_SU25_RE.json",
+    "questions": [
+      {
+        "id": "NWC204_SU25_RE_1eb42649-68a7-49a7-a827-e65a34dc2b33",
+        "raw_id": "1eb42649-68a7-49a7-a827-e65a34dc2b33",
+        "order_num": 1,
+        "exam_source": "Đề 8 (SU25 RE Ảnh)",
+        "exam_code": "NWC204_SU25_RE",
+        "content": null,
+        "image_url": "images/su25_re_q01.webp",
+        "type": "image",
+        "chapter_name": "Tổng hợp",
+        "correct_answer": "B",
+        "is_multi": false,
+        "correct_count": 1,
+        "options": [
+          {
+            "id": "0f8d0376-0954-4ce4-8484-942a54a4e0c8",
+            "label": "A",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "b814484a-20af-4e26-94a9-633d10a35924",
+            "label": "B",
+            "content": "",
+            "is_correct": true
+          },
+          {
+            "id": "7062c22c-c3f4-4d17-abcd-746bdcfc11bd",
+            "label": "C",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "1c272577-6914-4177-80ec-f15819fda5b5",
+            "label": "D",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "ec529e10-3e01-406a-87c6-14874a169ecc",
+            "label": "E",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "a776b692-83f9-4507-af55-59068f15eca4",
+            "label": "F",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "e7af8249-c50d-459f-bcac-0180c4c8588d",
+            "label": "G",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "11bc91bd-2a63-4afc-b67e-095002b15cbd",
+            "label": "H",
+            "content": "",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "id": "NWC204_SU25_RE_e594603b-3a01-4c56-9a6b-d16662541c53",
+        "raw_id": "e594603b-3a01-4c56-9a6b-d16662541c53",
+        "order_num": 2,
+        "exam_source": "Đề 8 (SU25 RE Ảnh)",
+        "exam_code": "NWC204_SU25_RE",
+        "content": null,
+        "image_url": "images/su25_re_q02.webp",
+        "type": "image",
+        "chapter_name": "Tổng hợp",
+        "correct_answer": "A, B, C",
+        "is_multi": true,
+        "correct_count": 3,
+        "options": [
+          {
+            "id": "c7b8eed8-0a14-4100-b559-b5dde9053d74",
+            "label": "A",
+            "content": "",
+            "is_correct": true
+          },
+          {
+            "id": "9e2f183e-7a97-4952-8795-a20d5630c166",
+            "label": "B",
+            "content": "",
+            "is_correct": true
+          },
+          {
+            "id": "ef70e617-b3f3-4f9d-b6f6-7661929ae6c8",
+            "label": "C",
+            "content": "",
+            "is_correct": true
+          },
+          {
+            "id": "b47777ea-0f1f-4d3e-9253-e919dec949bf",
+            "label": "D",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "1699f2fc-6edf-429d-a33f-f254007a027f",
+            "label": "E",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "ad12e1f3-1576-4f0e-b3b2-fcada5c1c316",
+            "label": "F",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "970d42e7-0789-4d0e-88ce-8df37e6fdde6",
+            "label": "G",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "65de5b4c-3c92-4294-9e7a-4fb062729cfe",
+            "label": "H",
+            "content": "",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "id": "NWC204_SU25_RE_2b752400-0763-4f72-a319-bfcba66ab32c",
+        "raw_id": "2b752400-0763-4f72-a319-bfcba66ab32c",
+        "order_num": 3,
+        "exam_source": "Đề 8 (SU25 RE Ảnh)",
+        "exam_code": "NWC204_SU25_RE",
+        "content": null,
+        "image_url": "images/su25_re_q03.webp",
+        "type": "image",
+        "chapter_name": "Tổng hợp",
+        "correct_answer": "B",
+        "is_multi": false,
+        "correct_count": 1,
+        "options": [
+          {
+            "id": "0004e5ab-d78e-4aca-b5f8-ec6946e6dd0a",
+            "label": "A",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "0a70e0d4-e683-433c-98f5-279026b474df",
+            "label": "B",
+            "content": "",
+            "is_correct": true
+          },
+          {
+            "id": "3535ae94-6028-4013-95e9-c8fe19c8cf35",
+            "label": "C",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "c7384e61-7d07-4219-9d2e-c07c0f5aee49",
+            "label": "D",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "13a215a5-25fe-42b8-a65f-77cb9fc03749",
+            "label": "E",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "09e5fefe-ba74-469c-bd3c-6378ad705246",
+            "label": "F",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "68cda639-a698-47a0-b0a1-99a89c53c6c1",
+            "label": "G",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "3d88fb22-1f67-4fae-80a0-71509c932409",
+            "label": "H",
+            "content": "",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "id": "NWC204_SU25_RE_2affdd18-3168-4124-8c48-052c1ddca5bf",
+        "raw_id": "2affdd18-3168-4124-8c48-052c1ddca5bf",
+        "order_num": 4,
+        "exam_source": "Đề 8 (SU25 RE Ảnh)",
+        "exam_code": "NWC204_SU25_RE",
+        "content": null,
+        "image_url": "images/su25_re_q04.webp",
+        "type": "image",
+        "chapter_name": "Tổng hợp",
+        "correct_answer": "B, D",
+        "is_multi": true,
+        "correct_count": 2,
+        "options": [
+          {
+            "id": "7438f775-c777-487b-8afe-e3b677345412",
+            "label": "A",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "5151b6ba-4b96-41dd-bcd1-e39b46d6b59a",
+            "label": "B",
+            "content": "",
+            "is_correct": true
+          },
+          {
+            "id": "1c5dbbe5-3af4-4376-a310-9c1f9c96df96",
+            "label": "C",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "4569a2fc-6bee-4beb-ae43-e80cdabf5f17",
+            "label": "D",
+            "content": "",
+            "is_correct": true
+          },
+          {
+            "id": "bb198deb-7d9c-4b9e-abae-244deb71290a",
+            "label": "E",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "fc0ad5ee-7624-4152-929f-97c1b4247c8f",
+            "label": "F",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "1f522519-67f9-45c4-b31e-eab19b07e36f",
+            "label": "G",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "7a42c216-e748-4f38-928e-8530f89cd5c6",
+            "label": "H",
+            "content": "",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "id": "NWC204_SU25_RE_c231ae82-30f5-4039-95e0-af4ae3f3b189",
+        "raw_id": "c231ae82-30f5-4039-95e0-af4ae3f3b189",
+        "order_num": 5,
+        "exam_source": "Đề 8 (SU25 RE Ảnh)",
+        "exam_code": "NWC204_SU25_RE",
+        "content": null,
+        "image_url": "images/su25_re_q05.webp",
+        "type": "image",
+        "chapter_name": "Tổng hợp",
+        "correct_answer": "B",
+        "is_multi": false,
+        "correct_count": 1,
+        "options": [
+          {
+            "id": "c05446a1-3279-469a-afb1-55cecfae15ad",
+            "label": "A",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "ce8c1a73-99d0-45fd-a6b4-4e984709a280",
+            "label": "B",
+            "content": "",
+            "is_correct": true
+          },
+          {
+            "id": "6585d68e-afd0-48de-94d4-4b976c1df60b",
+            "label": "C",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "3b72d264-6337-4fd9-9ea0-3d15d009059e",
+            "label": "D",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "091a670e-ff98-47c1-871f-83edbcee68cd",
+            "label": "E",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "841025ff-0e5b-4479-b822-d897463f6e90",
+            "label": "F",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "eb68d797-afa2-45ac-b327-19d3c6c2ac59",
+            "label": "G",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "36a8e7af-49a5-4ee8-846d-678d9df68af2",
+            "label": "H",
+            "content": "",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "id": "NWC204_SU25_RE_f351637e-5521-42b9-b2ee-ad42d3f44943",
+        "raw_id": "f351637e-5521-42b9-b2ee-ad42d3f44943",
+        "order_num": 6,
+        "exam_source": "Đề 8 (SU25 RE Ảnh)",
+        "exam_code": "NWC204_SU25_RE",
+        "content": null,
+        "image_url": "images/su25_re_q06.webp",
+        "type": "image",
+        "chapter_name": "Tổng hợp",
+        "correct_answer": "B, C",
+        "is_multi": true,
+        "correct_count": 2,
+        "options": [
+          {
+            "id": "ba3fcd4a-9f41-4ebe-aff0-5004dd943940",
+            "label": "A",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "ac1a2981-86e4-4f09-b0b0-9fab8083bda9",
+            "label": "B",
+            "content": "",
+            "is_correct": true
+          },
+          {
+            "id": "b06a1398-e38e-4ac4-ba58-9714cf705456",
+            "label": "C",
+            "content": "",
+            "is_correct": true
+          },
+          {
+            "id": "c0054237-c02a-4f9e-b632-bf3251fcd165",
+            "label": "D",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "3ed86fcf-ca4b-47d5-a284-72a371e7b90a",
+            "label": "E",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "5508a051-418a-4c63-870c-32156792b15b",
+            "label": "F",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "20db25c2-e879-41af-86cd-263bc0bfc3c2",
+            "label": "G",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "fa58fc44-ee0d-4ff5-b01b-5655501cd32d",
+            "label": "H",
+            "content": "",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "id": "NWC204_SU25_RE_912727ec-ed53-4db6-8b00-e42e613a6658",
+        "raw_id": "912727ec-ed53-4db6-8b00-e42e613a6658",
+        "order_num": 7,
+        "exam_source": "Đề 8 (SU25 RE Ảnh)",
+        "exam_code": "NWC204_SU25_RE",
+        "content": null,
+        "image_url": "images/su25_re_q07.webp",
+        "type": "image",
+        "chapter_name": "Tổng hợp",
+        "correct_answer": "C",
+        "is_multi": false,
+        "correct_count": 1,
+        "options": [
+          {
+            "id": "62f10988-7869-4317-9011-f5162118a7c5",
+            "label": "A",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "d7c06e2f-533b-4737-8242-f58b42a00cbd",
+            "label": "B",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "c45d4cdb-712c-4065-8fd2-da1e5d2ef6ed",
+            "label": "C",
+            "content": "",
+            "is_correct": true
+          },
+          {
+            "id": "5430a451-be64-4d8f-9577-13e007258703",
+            "label": "D",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "e15e3684-aed4-45f9-8504-0527c05d10de",
+            "label": "E",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "6280a0dc-30f2-47fc-bb2c-4cc1b0a73470",
+            "label": "F",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "8be9e610-bec5-4665-bedb-16a73a8cd9da",
+            "label": "G",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "e6ba5680-f18b-45fd-af58-69a4d1e7e59b",
+            "label": "H",
+            "content": "",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "id": "NWC204_SU25_RE_5a42500e-6703-43c2-9390-7f8e6bfb50a0",
+        "raw_id": "5a42500e-6703-43c2-9390-7f8e6bfb50a0",
+        "order_num": 8,
+        "exam_source": "Đề 8 (SU25 RE Ảnh)",
+        "exam_code": "NWC204_SU25_RE",
+        "content": null,
+        "image_url": "images/su25_re_q08.webp",
+        "type": "image",
+        "chapter_name": "Tổng hợp",
+        "correct_answer": "C, D",
+        "is_multi": true,
+        "correct_count": 2,
+        "options": [
+          {
+            "id": "24a1730a-9b60-429d-b745-70fd40f893a6",
+            "label": "A",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "831ffbbb-1bfb-4f06-85fd-235a22511cb5",
+            "label": "B",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "610b8320-9e74-4892-8203-bffa59eb484f",
+            "label": "C",
+            "content": "",
+            "is_correct": true
+          },
+          {
+            "id": "38dd95c5-fbde-4460-99d9-928693ab284f",
+            "label": "D",
+            "content": "",
+            "is_correct": true
+          },
+          {
+            "id": "3c442a6e-0c2b-4baa-b121-99e96e616533",
+            "label": "E",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "23e8ecba-6f0c-42f8-96cc-3510f2a7e6b2",
+            "label": "F",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "c56bfd95-3673-4205-824b-65ab316f9366",
+            "label": "G",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "34012d84-7f8b-4c19-82e6-4c3b6ce074f4",
+            "label": "H",
+            "content": "",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "id": "NWC204_SU25_RE_f5814f93-5654-4aac-9301-922263313692",
+        "raw_id": "f5814f93-5654-4aac-9301-922263313692",
+        "order_num": 9,
+        "exam_source": "Đề 8 (SU25 RE Ảnh)",
+        "exam_code": "NWC204_SU25_RE",
+        "content": null,
+        "image_url": "images/su25_re_q09.webp",
+        "type": "image",
+        "chapter_name": "Tổng hợp",
+        "correct_answer": "B",
+        "is_multi": false,
+        "correct_count": 1,
+        "options": [
+          {
+            "id": "dc729fe7-8603-4cc7-a812-230134878250",
+            "label": "A",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "be7f1c54-55bc-41d8-ad87-c6421d11c16a",
+            "label": "B",
+            "content": "",
+            "is_correct": true
+          },
+          {
+            "id": "fbf09ed3-bd05-43cb-ab7e-f6fa815e90d4",
+            "label": "C",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "992e4a78-a273-4be7-869c-deb1a6bf79c9",
+            "label": "D",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "28bf3762-09de-4063-9066-7166e738e18a",
+            "label": "E",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "fb9d8b60-7eca-416d-90bb-9e1cf37bce75",
+            "label": "F",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "5b50d4ce-aec8-4950-9985-a6ef8f986ede",
+            "label": "G",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "2ae480fe-de7c-4a1b-b608-cc1dc3c351ef",
+            "label": "H",
+            "content": "",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "id": "NWC204_SU25_RE_babfb3ac-7912-460c-be31-3897ef3770a5",
+        "raw_id": "babfb3ac-7912-460c-be31-3897ef3770a5",
+        "order_num": 10,
+        "exam_source": "Đề 8 (SU25 RE Ảnh)",
+        "exam_code": "NWC204_SU25_RE",
+        "content": null,
+        "image_url": "images/su25_re_q10.webp",
+        "type": "image",
+        "chapter_name": "Tổng hợp",
+        "correct_answer": "D",
+        "is_multi": false,
+        "correct_count": 1,
+        "options": [
+          {
+            "id": "dec9e040-e981-4f76-bd6d-03c106b39ad1",
+            "label": "A",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "56caf271-5d17-44ef-8ec4-1d947c24e293",
+            "label": "B",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "4977c037-7a23-4a01-bd50-28a7c88ab66d",
+            "label": "C",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "c19c1ada-8ad3-4186-9e61-354ba8dde518",
+            "label": "D",
+            "content": "",
+            "is_correct": true
+          },
+          {
+            "id": "20f4f098-32e5-4716-98bc-23e2dba83842",
+            "label": "E",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "1878196b-3d8a-480a-a7f3-f329cd4e52c5",
+            "label": "F",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "a436d413-7273-4bf8-91ee-3e61e1983fea",
+            "label": "G",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "5e78069e-2283-4651-9947-9c72948d58b6",
+            "label": "H",
+            "content": "",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "id": "NWC204_SU25_RE_00032d4e-b2b5-41cd-bef0-59a36e083b2d",
+        "raw_id": "00032d4e-b2b5-41cd-bef0-59a36e083b2d",
+        "order_num": 11,
+        "exam_source": "Đề 8 (SU25 RE Ảnh)",
+        "exam_code": "NWC204_SU25_RE",
+        "content": null,
+        "image_url": "images/su25_re_q11.webp",
+        "type": "image",
+        "chapter_name": "Tổng hợp",
+        "correct_answer": "B",
+        "is_multi": false,
+        "correct_count": 1,
+        "options": [
+          {
+            "id": "b268b5a6-dce3-4c0a-9ef9-9d3af407a64f",
+            "label": "A",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "6c9b0213-d85a-4283-b5d5-8ddbc2bc97b3",
+            "label": "B",
+            "content": "",
+            "is_correct": true
+          },
+          {
+            "id": "80013a97-7790-48b5-a0df-ffa1e8e087d9",
+            "label": "C",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "dff43236-69f2-451e-b63c-f3b4623555bf",
+            "label": "D",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "957fc4fd-0c53-4b4b-b0b7-f56d8dcb4469",
+            "label": "E",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "4b6c59d2-44ef-46f5-90d3-d0339b3b9476",
+            "label": "F",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "2c0bc53f-0089-4e71-a339-e38dd8dc829a",
+            "label": "G",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "f629bc01-f906-4fe4-a759-404b9df7a499",
+            "label": "H",
+            "content": "",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "id": "NWC204_SU25_RE_ae181129-5862-4092-885a-e5de3516dca7",
+        "raw_id": "ae181129-5862-4092-885a-e5de3516dca7",
+        "order_num": 12,
+        "exam_source": "Đề 8 (SU25 RE Ảnh)",
+        "exam_code": "NWC204_SU25_RE",
+        "content": null,
+        "image_url": "images/su25_re_q12.webp",
+        "type": "image",
+        "chapter_name": "Tổng hợp",
+        "correct_answer": "A",
+        "is_multi": false,
+        "correct_count": 1,
+        "options": [
+          {
+            "id": "ea5205d9-bf0d-4117-9cd2-06e44ca5f910",
+            "label": "A",
+            "content": "",
+            "is_correct": true
+          },
+          {
+            "id": "94c36b82-1965-46aa-b88f-9d696d9ca029",
+            "label": "B",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "d0839aef-7f7d-47df-85ee-b77e15afda9a",
+            "label": "C",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "6df64d01-08a5-4da9-b7ca-b96325a4bb31",
+            "label": "D",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "8722f7ab-040d-4d94-bafe-9690f35e6d50",
+            "label": "E",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "26110645-8f3c-4548-9ad2-0f52950d068c",
+            "label": "F",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "f10433b3-6bc6-4316-b0af-69c00d765518",
+            "label": "G",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "4634fef9-661c-47ae-8320-69a236127137",
+            "label": "H",
+            "content": "",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "id": "NWC204_SU25_RE_3c23adea-f069-4219-ad45-cf329efe6238",
+        "raw_id": "3c23adea-f069-4219-ad45-cf329efe6238",
+        "order_num": 13,
+        "exam_source": "Đề 8 (SU25 RE Ảnh)",
+        "exam_code": "NWC204_SU25_RE",
+        "content": null,
+        "image_url": "images/su25_re_q13.webp",
+        "type": "image",
+        "chapter_name": "Tổng hợp",
+        "correct_answer": "D",
+        "is_multi": false,
+        "correct_count": 1,
+        "options": [
+          {
+            "id": "37650f43-4f40-4a67-b5c7-898b5665dde3",
+            "label": "A",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "722b698a-0a35-4720-a5d9-14f8526bd754",
+            "label": "B",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "4387ac7e-8feb-4c1e-9511-c261b4ccc2de",
+            "label": "C",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "4e14dcf7-1bbc-48ee-aad8-1ea9db8b0c01",
+            "label": "D",
+            "content": "",
+            "is_correct": true
+          },
+          {
+            "id": "2f4754f1-27f4-45ad-b4db-2743dabba725",
+            "label": "E",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "a074c5b4-737f-4502-9453-a897fd163abd",
+            "label": "F",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "902747d4-67cb-457d-a31b-92055450d4ef",
+            "label": "G",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "0237bd5b-2058-49de-96a6-49a9f610297d",
+            "label": "H",
+            "content": "",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "id": "NWC204_SU25_RE_6037f9c8-4b75-4037-883f-174b9965f0f7",
+        "raw_id": "6037f9c8-4b75-4037-883f-174b9965f0f7",
+        "order_num": 14,
+        "exam_source": "Đề 8 (SU25 RE Ảnh)",
+        "exam_code": "NWC204_SU25_RE",
+        "content": null,
+        "image_url": "images/su25_re_q14.webp",
+        "type": "image",
+        "chapter_name": "Tổng hợp",
+        "correct_answer": "B",
+        "is_multi": false,
+        "correct_count": 1,
+        "options": [
+          {
+            "id": "01e58bf5-f16c-4fe3-aaf3-310e3f3c9251",
+            "label": "A",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "e150e575-e9b8-4122-9ea8-8c6e57f21a68",
+            "label": "B",
+            "content": "",
+            "is_correct": true
+          },
+          {
+            "id": "c8ad1298-4fbd-42ac-ad64-bc5a83c3d8c4",
+            "label": "C",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "d50b2d1c-2e56-4cf3-9cb8-9cdb22a87dfb",
+            "label": "D",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "66efd422-dfbd-42c9-8bb4-47d5b1b22424",
+            "label": "E",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "d07cac80-ad07-48f3-8fd3-2dab5ab3fb9b",
+            "label": "F",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "b221f6dc-edcd-4d2a-a768-c0a5bfd9b538",
+            "label": "G",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "d77bb0a0-d081-4f36-aede-853bda10322f",
+            "label": "H",
+            "content": "",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "id": "NWC204_SU25_RE_bae0a5f5-6c39-4efa-beed-63a48fa7c9a9",
+        "raw_id": "bae0a5f5-6c39-4efa-beed-63a48fa7c9a9",
+        "order_num": 15,
+        "exam_source": "Đề 8 (SU25 RE Ảnh)",
+        "exam_code": "NWC204_SU25_RE",
+        "content": null,
+        "image_url": "images/su25_re_q15.webp",
+        "type": "image",
+        "chapter_name": "Tổng hợp",
+        "correct_answer": "D",
+        "is_multi": false,
+        "correct_count": 1,
+        "options": [
+          {
+            "id": "134232ec-d7fa-4a76-abc9-617d30f2078e",
+            "label": "A",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "f7601026-f1a7-4e61-8e50-679ee01dcb42",
+            "label": "B",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "1da9c129-2578-4e51-b2aa-30b448b2d693",
+            "label": "C",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "ed60bd59-a35b-4253-a41a-589a3b84458a",
+            "label": "D",
+            "content": "",
+            "is_correct": true
+          },
+          {
+            "id": "cc52c707-8510-4bb9-b1f5-19120dfb8d85",
+            "label": "E",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "35350388-e044-47b7-a7df-18c0855be17f",
+            "label": "F",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "2d9ccd09-326f-47a5-b4cc-7e61e50958cb",
+            "label": "G",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "42b50f81-b82e-482b-81ac-8a65b6bc52b3",
+            "label": "H",
+            "content": "",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "id": "NWC204_SU25_RE_24c261f4-b560-41bc-bdab-5d10c71bfeae",
+        "raw_id": "24c261f4-b560-41bc-bdab-5d10c71bfeae",
+        "order_num": 16,
+        "exam_source": "Đề 8 (SU25 RE Ảnh)",
+        "exam_code": "NWC204_SU25_RE",
+        "content": null,
+        "image_url": "images/su25_re_q16.webp",
+        "type": "image",
+        "chapter_name": "Tổng hợp",
+        "correct_answer": "C",
+        "is_multi": false,
+        "correct_count": 1,
+        "options": [
+          {
+            "id": "ce8968d6-9717-4f59-8b5c-ccdedbad73cd",
+            "label": "A",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "c53170f1-68f0-443d-a031-2ba5907f9fa1",
+            "label": "B",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "c3149060-904c-478e-9072-8d9e0a6ba921",
+            "label": "C",
+            "content": "",
+            "is_correct": true
+          },
+          {
+            "id": "dccb5393-d83d-4dd8-81dc-7cb6155adb5a",
+            "label": "D",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "7f4ff7d8-3a6f-4ea1-9976-b9b61b4d883b",
+            "label": "E",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "1378ca26-340a-431f-8498-6fe081c4913f",
+            "label": "F",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "93aec875-b4f3-4034-a8eb-33939cdb0941",
+            "label": "G",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "221cfa88-c749-42ed-a309-a154ed695275",
+            "label": "H",
+            "content": "",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "id": "NWC204_SU25_RE_f5160b72-e1e3-4a5c-b4ac-3ae16e703ecc",
+        "raw_id": "f5160b72-e1e3-4a5c-b4ac-3ae16e703ecc",
+        "order_num": 17,
+        "exam_source": "Đề 8 (SU25 RE Ảnh)",
+        "exam_code": "NWC204_SU25_RE",
+        "content": null,
+        "image_url": "images/su25_re_q17.webp",
+        "type": "image",
+        "chapter_name": "Tổng hợp",
+        "correct_answer": "A",
+        "is_multi": false,
+        "correct_count": 1,
+        "options": [
+          {
+            "id": "33b90647-9ad4-4771-adce-9b8251b93f9e",
+            "label": "A",
+            "content": "",
+            "is_correct": true
+          },
+          {
+            "id": "ca1a2038-54fd-4c31-9441-95176bdbff12",
+            "label": "B",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "7acbc9b1-2f73-4b18-aae0-1d1bbe0909fb",
+            "label": "C",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "7910f560-f1a3-46da-bde9-cfef89e928e4",
+            "label": "D",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "f29739d7-8db1-4463-aee1-edaad1018323",
+            "label": "E",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "e971e762-6235-47d2-bed5-272cdf6c110e",
+            "label": "F",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "90bb3c68-078e-43ea-8e54-148bf245a179",
+            "label": "G",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "6dc175b8-865d-4818-93d9-73d425789efa",
+            "label": "H",
+            "content": "",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "id": "NWC204_SU25_RE_e2812fc7-87f9-4c46-a657-4fd8bef13829",
+        "raw_id": "e2812fc7-87f9-4c46-a657-4fd8bef13829",
+        "order_num": 18,
+        "exam_source": "Đề 8 (SU25 RE Ảnh)",
+        "exam_code": "NWC204_SU25_RE",
+        "content": null,
+        "image_url": "images/su25_re_q18.webp",
+        "type": "image",
+        "chapter_name": "Tổng hợp",
+        "correct_answer": "A",
+        "is_multi": false,
+        "correct_count": 1,
+        "options": [
+          {
+            "id": "beecda87-2d9a-493d-86de-6dc87ba055d3",
+            "label": "A",
+            "content": "",
+            "is_correct": true
+          },
+          {
+            "id": "17c19d5d-98db-4d8d-a76c-1aeafbef7666",
+            "label": "B",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "1ca62fec-1da0-4248-b85f-d571c2658bad",
+            "label": "C",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "61d9844d-03ac-4a4d-9a0a-b9ad51a75237",
+            "label": "D",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "b324d6fa-a30b-469c-9c01-ee81df6ab611",
+            "label": "E",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "45128d63-246f-48b6-bfee-ac97a3e78df3",
+            "label": "F",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "1df788f1-09e5-4952-979c-4218077ba30c",
+            "label": "G",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "7500f2ee-9089-4fbd-a6b4-ef6478116ff2",
+            "label": "H",
+            "content": "",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "id": "NWC204_SU25_RE_143341bd-b8aa-465d-b627-43a293f4621f",
+        "raw_id": "143341bd-b8aa-465d-b627-43a293f4621f",
+        "order_num": 19,
+        "exam_source": "Đề 8 (SU25 RE Ảnh)",
+        "exam_code": "NWC204_SU25_RE",
+        "content": null,
+        "image_url": "images/su25_re_q19.webp",
+        "type": "image",
+        "chapter_name": "Tổng hợp",
+        "correct_answer": "B",
+        "is_multi": false,
+        "correct_count": 1,
+        "options": [
+          {
+            "id": "2b78ce7e-ad08-4d7c-850c-fe8b5a591487",
+            "label": "A",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "cd5e4f7c-36a7-438c-902f-575aa1c352f6",
+            "label": "B",
+            "content": "",
+            "is_correct": true
+          },
+          {
+            "id": "64331fcf-8c27-4f9f-b0a9-49d8bc76f494",
+            "label": "C",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "ef057c2f-3951-4844-9c22-0dfe1490d6cb",
+            "label": "D",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "48578bdd-b396-4f81-9485-2bc32f3e8a88",
+            "label": "E",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "28669b3e-f2e0-4cdc-8410-358d856fc23c",
+            "label": "F",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "eb45d494-5557-4793-aa75-754a6c51e855",
+            "label": "G",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "e44120ba-81b5-4fd1-b825-7ec76ea5fd1c",
+            "label": "H",
+            "content": "",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "id": "NWC204_SU25_RE_65381e6e-d4f5-48ac-b763-5d4edb537093",
+        "raw_id": "65381e6e-d4f5-48ac-b763-5d4edb537093",
+        "order_num": 20,
+        "exam_source": "Đề 8 (SU25 RE Ảnh)",
+        "exam_code": "NWC204_SU25_RE",
+        "content": null,
+        "image_url": "images/su25_re_q20.webp",
+        "type": "image",
+        "chapter_name": "Tổng hợp",
+        "correct_answer": "E, F",
+        "is_multi": true,
+        "correct_count": 2,
+        "options": [
+          {
+            "id": "0143018d-cf31-475c-861c-df1d1f004b04",
+            "label": "A",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "b1bf61c4-61a0-4d5f-9c7a-c693fec4243c",
+            "label": "B",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "0bfe45cc-fad7-43a7-b620-c55d5836d17b",
+            "label": "C",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "f9e00640-5e42-48f2-b399-dd3ddc459b47",
+            "label": "D",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "f41d34dd-ec67-4b43-8d7b-b1fc54cbbfba",
+            "label": "E",
+            "content": "",
+            "is_correct": true
+          },
+          {
+            "id": "6fa8cc87-99a2-4a3b-8e84-fd445966b377",
+            "label": "F",
+            "content": "",
+            "is_correct": true
+          },
+          {
+            "id": "690d6720-3ab1-4319-bf29-bf739dfe960e",
+            "label": "G",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "5f49c81b-a1c7-44ce-bf6c-b66535e1d258",
+            "label": "H",
+            "content": "",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "id": "NWC204_SU25_RE_4f6dbbd3-2c37-4c19-a934-08500dd380be",
+        "raw_id": "4f6dbbd3-2c37-4c19-a934-08500dd380be",
+        "order_num": 21,
+        "exam_source": "Đề 8 (SU25 RE Ảnh)",
+        "exam_code": "NWC204_SU25_RE",
+        "content": null,
+        "image_url": "images/su25_re_q21.webp",
+        "type": "image",
+        "chapter_name": "Tổng hợp",
+        "correct_answer": "B",
+        "is_multi": false,
+        "correct_count": 1,
+        "options": [
+          {
+            "id": "41f4986f-c69f-4cb8-beca-bf57c779fc88",
+            "label": "A",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "9a5edd9f-275a-4b71-9d5f-662e5bb9fbab",
+            "label": "B",
+            "content": "",
+            "is_correct": true
+          },
+          {
+            "id": "cbfbb44a-c628-4171-b56a-414add820e36",
+            "label": "C",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "375ebd15-9017-476f-ae69-52e4ba716d3c",
+            "label": "D",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "a55da9d4-c05a-4384-8f8a-1406b0d558ef",
+            "label": "E",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "0eb5f531-a2fd-42d8-81af-161c44ccb02a",
+            "label": "F",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "ecb0acf1-ec5c-4346-9109-c1e88b7b4dcc",
+            "label": "G",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "e11f219a-3997-4841-aafe-184398cc6574",
+            "label": "H",
+            "content": "",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "id": "NWC204_SU25_RE_646e29db-bdd2-4e31-81a7-534e521219d2",
+        "raw_id": "646e29db-bdd2-4e31-81a7-534e521219d2",
+        "order_num": 22,
+        "exam_source": "Đề 8 (SU25 RE Ảnh)",
+        "exam_code": "NWC204_SU25_RE",
+        "content": null,
+        "image_url": "images/su25_re_q22.webp",
+        "type": "image",
+        "chapter_name": "Tổng hợp",
+        "correct_answer": "C",
+        "is_multi": false,
+        "correct_count": 1,
+        "options": [
+          {
+            "id": "aadbebb1-58a2-43a6-a068-b155916f222f",
+            "label": "A",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "7ec7f48e-860a-447e-96c1-ba557dc7ecc1",
+            "label": "B",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "7cb5ea72-45cf-4739-a5d0-9554290b1a7e",
+            "label": "C",
+            "content": "",
+            "is_correct": true
+          },
+          {
+            "id": "30e3a60c-2542-4445-8a6a-b4c3bd5e6711",
+            "label": "D",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "051f963a-f587-47f3-a2f5-6271c2a576ec",
+            "label": "E",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "23cefb46-9c90-4cb2-8b4c-682c084def7e",
+            "label": "F",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "78ccd1a3-b5c7-401b-834c-a085f9b58fd1",
+            "label": "G",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "2f67f26b-934d-45d8-89fa-7d2b70f953f3",
+            "label": "H",
+            "content": "",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "id": "NWC204_SU25_RE_766e0b4d-d7ea-4ef7-97bc-666096fe3965",
+        "raw_id": "766e0b4d-d7ea-4ef7-97bc-666096fe3965",
+        "order_num": 23,
+        "exam_source": "Đề 8 (SU25 RE Ảnh)",
+        "exam_code": "NWC204_SU25_RE",
+        "content": null,
+        "image_url": "images/su25_re_q23.webp",
+        "type": "image",
+        "chapter_name": "Tổng hợp",
+        "correct_answer": "C",
+        "is_multi": false,
+        "correct_count": 1,
+        "options": [
+          {
+            "id": "0ac8625d-e155-4862-8687-6168be3fc306",
+            "label": "A",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "435de3da-d23c-4d9a-9da9-8454c796923f",
+            "label": "B",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "5fa2f3ab-d320-413d-b2d5-659fe786f8c8",
+            "label": "C",
+            "content": "",
+            "is_correct": true
+          },
+          {
+            "id": "28160a52-bbc0-4b95-a488-10d5e8bd4976",
+            "label": "D",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "7cd8a959-96d2-4b12-b487-32358aa2df35",
+            "label": "E",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "b9069955-9601-451a-b723-11234a4389f4",
+            "label": "F",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "5179c7ed-9629-4497-b423-7f8b0885e812",
+            "label": "G",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "e1f09d4f-4c6f-4df3-a6f8-ad53ffd7ed7d",
+            "label": "H",
+            "content": "",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "id": "NWC204_SU25_RE_1bfcfdda-6d82-42c1-b12a-7cbfe3bfc5b7",
+        "raw_id": "1bfcfdda-6d82-42c1-b12a-7cbfe3bfc5b7",
+        "order_num": 24,
+        "exam_source": "Đề 8 (SU25 RE Ảnh)",
+        "exam_code": "NWC204_SU25_RE",
+        "content": null,
+        "image_url": "images/su25_re_q24.webp",
+        "type": "image",
+        "chapter_name": "Tổng hợp",
+        "correct_answer": "C",
+        "is_multi": false,
+        "correct_count": 1,
+        "options": [
+          {
+            "id": "36c58e3a-6d11-40fc-b2db-2932abfbeadd",
+            "label": "A",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "a64379b8-2586-4dd2-9723-9df39d61388d",
+            "label": "B",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "b9cc1c61-111a-4077-b959-fcba3aa1cd28",
+            "label": "C",
+            "content": "",
+            "is_correct": true
+          },
+          {
+            "id": "29fb3f12-51c0-46fc-9ca7-87ec8658ec56",
+            "label": "D",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "500f2d60-5a49-4fc4-b220-2e95cb8d298b",
+            "label": "E",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "06aeb20c-fd23-43be-8f73-8ab0bace9bfd",
+            "label": "F",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "b023f783-2988-4825-ab23-351a68f7d3e0",
+            "label": "G",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "7805a539-69f4-4300-966a-34b94f458af7",
+            "label": "H",
+            "content": "",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "id": "NWC204_SU25_RE_b5848073-95a8-46ac-a11d-86809ebd97bf",
+        "raw_id": "b5848073-95a8-46ac-a11d-86809ebd97bf",
+        "order_num": 25,
+        "exam_source": "Đề 8 (SU25 RE Ảnh)",
+        "exam_code": "NWC204_SU25_RE",
+        "content": null,
+        "image_url": "images/su25_re_q25.webp",
+        "type": "image",
+        "chapter_name": "Tổng hợp",
+        "correct_answer": "A",
+        "is_multi": false,
+        "correct_count": 1,
+        "options": [
+          {
+            "id": "67a455cd-6710-4ff1-b77c-322d781ed2e9",
+            "label": "A",
+            "content": "",
+            "is_correct": true
+          },
+          {
+            "id": "2db12807-3446-4993-aab5-3976a7de4083",
+            "label": "B",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "c5beba29-41f2-440d-8f1a-66f010b6299e",
+            "label": "C",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "22e2c87f-ea5a-47c3-887f-bf7242511742",
+            "label": "D",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "49fa3622-86d4-4877-9d40-0e9d4fe4f7c2",
+            "label": "E",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "31b0c739-780c-471a-92ae-98f7fa615ace",
+            "label": "F",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "a75fb643-0a77-408d-8522-22eac180c358",
+            "label": "G",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "c05aee4a-56f4-48d8-b96a-269752584832",
+            "label": "H",
+            "content": "",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "id": "NWC204_SU25_RE_56066dbb-f4a9-4e76-ba65-de231016a8ab",
+        "raw_id": "56066dbb-f4a9-4e76-ba65-de231016a8ab",
+        "order_num": 26,
+        "exam_source": "Đề 8 (SU25 RE Ảnh)",
+        "exam_code": "NWC204_SU25_RE",
+        "content": null,
+        "image_url": "images/su25_re_q26.webp",
+        "type": "image",
+        "chapter_name": "Tổng hợp",
+        "correct_answer": "B, D",
+        "is_multi": true,
+        "correct_count": 2,
+        "options": [
+          {
+            "id": "aba10df8-63c5-4872-8787-3262275c21c5",
+            "label": "A",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "1bf88a83-60e3-4e2d-8db0-4eb2941e0763",
+            "label": "B",
+            "content": "",
+            "is_correct": true
+          },
+          {
+            "id": "ab5b2928-eef8-4cf3-8717-b2b478da5991",
+            "label": "C",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "75313713-bdfe-48f0-8443-f7d663bcb532",
+            "label": "D",
+            "content": "",
+            "is_correct": true
+          },
+          {
+            "id": "33fa321b-8629-4398-acd5-b6f261379826",
+            "label": "E",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "d036bce5-5609-4a5e-9bbc-f5253cdeaeef",
+            "label": "F",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "8de180ac-6a5f-48b6-8fce-32bff45fee26",
+            "label": "G",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "52f76a4a-31ca-49ab-ac8f-d838f756c175",
+            "label": "H",
+            "content": "",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "id": "NWC204_SU25_RE_eec655e4-8641-4ef8-80ad-e92981da96f3",
+        "raw_id": "eec655e4-8641-4ef8-80ad-e92981da96f3",
+        "order_num": 27,
+        "exam_source": "Đề 8 (SU25 RE Ảnh)",
+        "exam_code": "NWC204_SU25_RE",
+        "content": null,
+        "image_url": "images/su25_re_q27.webp",
+        "type": "image",
+        "chapter_name": "Tổng hợp",
+        "correct_answer": "C",
+        "is_multi": false,
+        "correct_count": 1,
+        "options": [
+          {
+            "id": "e41b4dda-100a-46b1-8a67-3ae9ff6adc5c",
+            "label": "A",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "f6d6f721-d6f7-40e2-939d-b2cc1fa01065",
+            "label": "B",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "e26bdd09-cae6-45c0-abcb-dc718c7fd99d",
+            "label": "C",
+            "content": "",
+            "is_correct": true
+          },
+          {
+            "id": "efdaa78a-0ccf-4110-9151-7b50a3acc7f0",
+            "label": "D",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "71ff5a80-10d5-4f0d-bc31-754afebdd6f8",
+            "label": "E",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "4532145b-b6ce-40c0-9e8e-8c817eb5bca0",
+            "label": "F",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "3401dcf0-a340-4268-a9b7-496f156323ff",
+            "label": "G",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "a3040e80-4c8e-43a5-ae0e-0fada0ee7f0a",
+            "label": "H",
+            "content": "",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "id": "NWC204_SU25_RE_03c32f48-9d4a-4760-a8eb-04fc7a6e01af",
+        "raw_id": "03c32f48-9d4a-4760-a8eb-04fc7a6e01af",
+        "order_num": 28,
+        "exam_source": "Đề 8 (SU25 RE Ảnh)",
+        "exam_code": "NWC204_SU25_RE",
+        "content": null,
+        "image_url": "images/su25_re_q28.webp",
+        "type": "image",
+        "chapter_name": "Tổng hợp",
+        "correct_answer": "C",
+        "is_multi": false,
+        "correct_count": 1,
+        "options": [
+          {
+            "id": "83ee64a6-662c-4f58-b9ca-c546cef3ccfb",
+            "label": "A",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "866afc20-cdef-4ea3-8aa4-30b3b372b8c3",
+            "label": "B",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "8d434557-cf5f-4885-8679-069c259e4bef",
+            "label": "C",
+            "content": "",
+            "is_correct": true
+          },
+          {
+            "id": "08b60a2a-9e40-4312-88aa-fa37af45b814",
+            "label": "D",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "381cdffc-2478-46fb-90d7-7fdd4cc86289",
+            "label": "E",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "4ff41103-1ae1-4d5c-a06e-c8ac5b9fd2f8",
+            "label": "F",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "56239a53-7894-4e94-8da3-8363100509db",
+            "label": "G",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "6bf9a7f9-a95d-460c-ad20-dd6d8b671545",
+            "label": "H",
+            "content": "",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "id": "NWC204_SU25_RE_db2d0f40-d5a5-4b39-acb9-1d8af9a74df8",
+        "raw_id": "db2d0f40-d5a5-4b39-acb9-1d8af9a74df8",
+        "order_num": 29,
+        "exam_source": "Đề 8 (SU25 RE Ảnh)",
+        "exam_code": "NWC204_SU25_RE",
+        "content": null,
+        "image_url": "images/su25_re_q29.webp",
+        "type": "image",
+        "chapter_name": "Tổng hợp",
+        "correct_answer": "C",
+        "is_multi": false,
+        "correct_count": 1,
+        "options": [
+          {
+            "id": "2ff685e6-18d2-4df2-a780-8df7776664d7",
+            "label": "A",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "914ab630-82cd-49e6-ab50-d10a194839bc",
+            "label": "B",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "095a96f8-0c3a-47cd-9c6a-6c4806fa6f8d",
+            "label": "C",
+            "content": "",
+            "is_correct": true
+          },
+          {
+            "id": "c4766a22-e5d4-474b-8cc9-f09588bdbc8e",
+            "label": "D",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "f6047365-c0d4-4a08-a724-c87d8521857d",
+            "label": "E",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "9f142f95-abc3-4971-9a75-42dc282a0cea",
+            "label": "F",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "acbb6344-c6e6-4f15-a160-dcd8a4395132",
+            "label": "G",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "44e77820-3afa-4614-90a7-d2de9c73f2b3",
+            "label": "H",
+            "content": "",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "id": "NWC204_SU25_RE_d2cf381f-101e-407c-a64a-c7b2d87c440c",
+        "raw_id": "d2cf381f-101e-407c-a64a-c7b2d87c440c",
+        "order_num": 30,
+        "exam_source": "Đề 8 (SU25 RE Ảnh)",
+        "exam_code": "NWC204_SU25_RE",
+        "content": null,
+        "image_url": "images/su25_re_q30.webp",
+        "type": "image",
+        "chapter_name": "Tổng hợp",
+        "correct_answer": "C",
+        "is_multi": false,
+        "correct_count": 1,
+        "options": [
+          {
+            "id": "649e8f34-927c-4cab-8fd4-011dd5c8306a",
+            "label": "A",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "88275344-017a-4f9c-8565-b0bd1a1491e0",
+            "label": "B",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "8aca02bf-885d-4c9a-8cf7-93297ba0f9b0",
+            "label": "C",
+            "content": "",
+            "is_correct": true
+          },
+          {
+            "id": "0ac37d5d-c378-4a42-8ec1-c578416c876f",
+            "label": "D",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "39d95a34-58fc-4231-9959-fdf0e5fedfbb",
+            "label": "E",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "e0b95a89-6872-45ba-8dbc-c56923aff977",
+            "label": "F",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "35b92636-53ca-44e3-bb66-911e76c9ae4a",
+            "label": "G",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "a10d95a2-e274-48c0-8eea-656798db313a",
+            "label": "H",
+            "content": "",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "id": "NWC204_SU25_RE_5f8e51cd-3e3b-4790-a65e-142daa54d757",
+        "raw_id": "5f8e51cd-3e3b-4790-a65e-142daa54d757",
+        "order_num": 31,
+        "exam_source": "Đề 8 (SU25 RE Ảnh)",
+        "exam_code": "NWC204_SU25_RE",
+        "content": null,
+        "image_url": "images/su25_re_q31.webp",
+        "type": "image",
+        "chapter_name": "Tổng hợp",
+        "correct_answer": "A",
+        "is_multi": false,
+        "correct_count": 1,
+        "options": [
+          {
+            "id": "caec3b30-bca7-4985-8c12-b4c5366e6596",
+            "label": "A",
+            "content": "",
+            "is_correct": true
+          },
+          {
+            "id": "e0f1f450-fdc9-4f6e-b939-56062c9e5e4c",
+            "label": "B",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "978b355c-1432-4b9d-92c3-b481565ec275",
+            "label": "C",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "0676079e-3fbb-4f06-b9bb-833d15129a60",
+            "label": "D",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "16d2b464-d2d5-4004-9e37-e2be89133a0c",
+            "label": "E",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "2736cef3-ca25-4dcd-8f73-c8f93f48c779",
+            "label": "F",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "52da41cb-1b8f-465e-8c6a-1cd634fc8645",
+            "label": "G",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "ddf8a24c-1162-4432-bcb1-ca75eb410850",
+            "label": "H",
+            "content": "",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "id": "NWC204_SU25_RE_4783bde6-800d-4880-8dbe-fb14e12d293d",
+        "raw_id": "4783bde6-800d-4880-8dbe-fb14e12d293d",
+        "order_num": 32,
+        "exam_source": "Đề 8 (SU25 RE Ảnh)",
+        "exam_code": "NWC204_SU25_RE",
+        "content": null,
+        "image_url": "images/su25_re_q32.webp",
+        "type": "image",
+        "chapter_name": "Tổng hợp",
+        "correct_answer": "D",
+        "is_multi": false,
+        "correct_count": 1,
+        "options": [
+          {
+            "id": "e7938278-2dac-48ac-a922-23d006d18a49",
+            "label": "A",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "7f7dba35-199c-4cf7-8be4-2416d939b06b",
+            "label": "B",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "cef85fae-db3c-46cf-b464-457270a5120c",
+            "label": "C",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "2f878671-9d45-4cab-95ee-11202973a312",
+            "label": "D",
+            "content": "",
+            "is_correct": true
+          },
+          {
+            "id": "3843fd66-3041-4def-bcb3-8cb5504706e3",
+            "label": "E",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "7821b429-1761-41af-9772-03439140be21",
+            "label": "F",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "da12d3bf-57d0-4a3e-afab-6a57c7bbf920",
+            "label": "G",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "4a058750-6541-4cdf-b110-e82db7664e29",
+            "label": "H",
+            "content": "",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "id": "NWC204_SU25_RE_8667c902-36be-421e-85a3-e2c63d513e24",
+        "raw_id": "8667c902-36be-421e-85a3-e2c63d513e24",
+        "order_num": 33,
+        "exam_source": "Đề 8 (SU25 RE Ảnh)",
+        "exam_code": "NWC204_SU25_RE",
+        "content": null,
+        "image_url": "images/su25_re_q33.webp",
+        "type": "image",
+        "chapter_name": "Tổng hợp",
+        "correct_answer": "A, C, D",
+        "is_multi": true,
+        "correct_count": 3,
+        "options": [
+          {
+            "id": "172e4c6d-df9e-4071-ba41-77123731e3a3",
+            "label": "A",
+            "content": "",
+            "is_correct": true
+          },
+          {
+            "id": "c3718393-02a1-493e-a0a1-96824f92652e",
+            "label": "B",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "f262979e-1021-4922-8e0c-e34bcde7d174",
+            "label": "C",
+            "content": "",
+            "is_correct": true
+          },
+          {
+            "id": "1c7f3c14-ab8f-4e25-b630-11871c594857",
+            "label": "D",
+            "content": "",
+            "is_correct": true
+          },
+          {
+            "id": "130e3597-f4e1-4880-a8ca-964958c40675",
+            "label": "E",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "0e2665e6-1e0b-4bfd-b7c7-60dd401e2810",
+            "label": "F",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "513af501-1f93-490a-8f15-4a9d7a8a87cf",
+            "label": "G",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "af926447-7303-48f4-b206-d53f7dda0bd9",
+            "label": "H",
+            "content": "",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "id": "NWC204_SU25_RE_d59f0207-aa02-4223-a55a-84cf14e9bd56",
+        "raw_id": "d59f0207-aa02-4223-a55a-84cf14e9bd56",
+        "order_num": 34,
+        "exam_source": "Đề 8 (SU25 RE Ảnh)",
+        "exam_code": "NWC204_SU25_RE",
+        "content": null,
+        "image_url": "images/su25_re_q34.webp",
+        "type": "image",
+        "chapter_name": "Tổng hợp",
+        "correct_answer": "A",
+        "is_multi": false,
+        "correct_count": 1,
+        "options": [
+          {
+            "id": "2b2793a3-3978-4c22-a1a2-c48a58a8436e",
+            "label": "A",
+            "content": "",
+            "is_correct": true
+          },
+          {
+            "id": "43a1ab75-eeb9-4535-8140-92ca9a222cce",
+            "label": "B",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "aa4062b2-5072-46c0-a306-1fac1a62e448",
+            "label": "C",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "d09df372-d24d-4937-850d-b6d827034b61",
+            "label": "D",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "91c856b0-a970-4bd1-8065-78598907ce2d",
+            "label": "E",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "b0448255-be6f-41b9-bae8-f8663bd2b0be",
+            "label": "F",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "7b584aa8-ba11-4384-af93-0bcb6cc13fb9",
+            "label": "G",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "812d4817-edec-4198-b6ea-76c272881e28",
+            "label": "H",
+            "content": "",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "id": "NWC204_SU25_RE_e46cb7ce-356b-438e-aa85-ac241249d90c",
+        "raw_id": "e46cb7ce-356b-438e-aa85-ac241249d90c",
+        "order_num": 35,
+        "exam_source": "Đề 8 (SU25 RE Ảnh)",
+        "exam_code": "NWC204_SU25_RE",
+        "content": null,
+        "image_url": "images/su25_re_q35.webp",
+        "type": "image",
+        "chapter_name": "Tổng hợp",
+        "correct_answer": "C",
+        "is_multi": false,
+        "correct_count": 1,
+        "options": [
+          {
+            "id": "0546ba59-6e0d-480d-8a2f-73dafc494712",
+            "label": "A",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "fb54bd51-1312-4bcc-aa7b-96a47c72496d",
+            "label": "B",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "47fc5c6a-e0c4-459b-8c83-615a42643e56",
+            "label": "C",
+            "content": "",
+            "is_correct": true
+          },
+          {
+            "id": "c55ef93c-9b79-43d5-a1fe-5165be720821",
+            "label": "D",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "d7e1e334-f819-4d08-9a8e-d64f2a5d7169",
+            "label": "E",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "7032b3b7-288b-409b-acdf-f92b54e340ec",
+            "label": "F",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "e1ecb45b-3c4f-426c-aec5-7f58171000d3",
+            "label": "G",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "9956745c-a984-477d-ae5a-2cf0ed9d74d5",
+            "label": "H",
+            "content": "",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "id": "NWC204_SU25_RE_dd2bb874-b806-470e-843b-5c04b4906108",
+        "raw_id": "dd2bb874-b806-470e-843b-5c04b4906108",
+        "order_num": 36,
+        "exam_source": "Đề 8 (SU25 RE Ảnh)",
+        "exam_code": "NWC204_SU25_RE",
+        "content": null,
+        "image_url": "images/su25_re_q36.webp",
+        "type": "image",
+        "chapter_name": "Tổng hợp",
+        "correct_answer": "B",
+        "is_multi": false,
+        "correct_count": 1,
+        "options": [
+          {
+            "id": "cbee323d-16b9-4631-b904-55dcef999a97",
+            "label": "A",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "f231767f-35ed-43c5-9de8-f590f0dc0073",
+            "label": "B",
+            "content": "",
+            "is_correct": true
+          },
+          {
+            "id": "a78b6a3e-26ce-409e-a74e-be12dc3496c9",
+            "label": "C",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "5c935e98-32e5-4a82-b4c0-6fd8175bda04",
+            "label": "D",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "225beb02-aac8-4694-b931-0663bbd13b7e",
+            "label": "E",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "31b00417-e840-41f8-b4c4-33f15ac8809d",
+            "label": "F",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "088a8c11-a714-4882-82d1-a9dcc7e84674",
+            "label": "G",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "803b3df6-a62f-4050-8cc7-ff2ac230a380",
+            "label": "H",
+            "content": "",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "id": "NWC204_SU25_RE_24c27c5b-0e9c-498b-8645-73b9420d4c33",
+        "raw_id": "24c27c5b-0e9c-498b-8645-73b9420d4c33",
+        "order_num": 37,
+        "exam_source": "Đề 8 (SU25 RE Ảnh)",
+        "exam_code": "NWC204_SU25_RE",
+        "content": null,
+        "image_url": "images/su25_re_q37.webp",
+        "type": "image",
+        "chapter_name": "Tổng hợp",
+        "correct_answer": "B, E, F",
+        "is_multi": true,
+        "correct_count": 3,
+        "options": [
+          {
+            "id": "5b6fb758-8e1c-4dfe-b6ec-430c5b7cea86",
+            "label": "A",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "cf65117c-40a4-45e3-a5d9-b63a587c5480",
+            "label": "B",
+            "content": "",
+            "is_correct": true
+          },
+          {
+            "id": "4e3d1de9-39cc-4210-97bb-70705e9a7a85",
+            "label": "C",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "c4f49701-58ba-4d43-84c2-6a0308ce1a20",
+            "label": "D",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "00410121-6e5b-445f-a7b7-149ae23e9d0e",
+            "label": "E",
+            "content": "",
+            "is_correct": true
+          },
+          {
+            "id": "591f0770-8bcb-4c1f-8ee5-d625d9689b11",
+            "label": "F",
+            "content": "",
+            "is_correct": true
+          },
+          {
+            "id": "eb457027-6c06-481e-81eb-d0d2c5da935f",
+            "label": "G",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "5122111f-d8c6-4920-a659-becf9e51ab59",
+            "label": "H",
+            "content": "",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "id": "NWC204_SU25_RE_3dc899d2-0fa4-4744-8e40-1a770c82220e",
+        "raw_id": "3dc899d2-0fa4-4744-8e40-1a770c82220e",
+        "order_num": 38,
+        "exam_source": "Đề 8 (SU25 RE Ảnh)",
+        "exam_code": "NWC204_SU25_RE",
+        "content": null,
+        "image_url": "images/su25_re_q38.webp",
+        "type": "image",
+        "chapter_name": "Tổng hợp",
+        "correct_answer": "A, D",
+        "is_multi": true,
+        "correct_count": 2,
+        "options": [
+          {
+            "id": "073c1963-f2ca-4be8-a2ad-15b3425bf966",
+            "label": "A",
+            "content": "",
+            "is_correct": true
+          },
+          {
+            "id": "1722ac6c-5d90-4925-8165-ffa87735d183",
+            "label": "B",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "504fa7a5-8078-4225-9198-022c8e35df11",
+            "label": "C",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "9fd54f79-90b3-4750-9e94-7e512dbf4e0e",
+            "label": "D",
+            "content": "",
+            "is_correct": true
+          },
+          {
+            "id": "b2244724-8c6a-4297-b1d1-5cda60bd924a",
+            "label": "E",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "2e65528c-4ecb-44cc-a55c-3f6223988197",
+            "label": "F",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "69aa036b-d68e-4240-bbdb-c72f7d39254b",
+            "label": "G",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "bfb3fa3a-95ae-4182-a888-4bce7c1d76dc",
+            "label": "H",
+            "content": "",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "id": "NWC204_SU25_RE_95b91a7c-da2f-40f0-982e-4f657359ea75",
+        "raw_id": "95b91a7c-da2f-40f0-982e-4f657359ea75",
+        "order_num": 39,
+        "exam_source": "Đề 8 (SU25 RE Ảnh)",
+        "exam_code": "NWC204_SU25_RE",
+        "content": null,
+        "image_url": "images/su25_re_q39.webp",
+        "type": "image",
+        "chapter_name": "Tổng hợp",
+        "correct_answer": "C",
+        "is_multi": false,
+        "correct_count": 1,
+        "options": [
+          {
+            "id": "4727e19b-7b06-4ac8-9493-f64472d97d71",
+            "label": "A",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "f045ddc0-7657-4826-914c-60ce395ef3da",
+            "label": "B",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "55b8b092-0941-4e91-98a3-1c4000de8ee7",
+            "label": "C",
+            "content": "",
+            "is_correct": true
+          },
+          {
+            "id": "d1fa148b-0105-4f36-9341-1b24683547a8",
+            "label": "D",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "c199cbaf-4ce5-45ff-88b8-0675a4c6a67d",
+            "label": "E",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "241448b4-92a8-4bc3-b15f-8343fba95ab5",
+            "label": "F",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "fa392975-fc67-44ad-849b-9fc88356d494",
+            "label": "G",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "f8750f07-9e1f-48c9-a9d9-1ea2baa14004",
+            "label": "H",
+            "content": "",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "id": "NWC204_SU25_RE_61d0a45a-8aac-424a-9c25-c508f081178d",
+        "raw_id": "61d0a45a-8aac-424a-9c25-c508f081178d",
+        "order_num": 40,
+        "exam_source": "Đề 8 (SU25 RE Ảnh)",
+        "exam_code": "NWC204_SU25_RE",
+        "content": null,
+        "image_url": "images/su25_re_q40.webp",
+        "type": "image",
+        "chapter_name": "Tổng hợp",
+        "correct_answer": "C",
+        "is_multi": false,
+        "correct_count": 1,
+        "options": [
+          {
+            "id": "3943a796-a997-4379-a5d7-015e7cde387a",
+            "label": "A",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "9e2a420a-64ac-4668-84e2-a5f79cb1da6e",
+            "label": "B",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "868d6fb6-15c2-4280-ab9b-0288b871b0ad",
+            "label": "C",
+            "content": "",
+            "is_correct": true
+          },
+          {
+            "id": "62d16a69-f57c-4a07-8d2d-9448eb2e6d7c",
+            "label": "D",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "a5cb9fc5-37ab-4fb0-8048-c48a5b8f2526",
+            "label": "E",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "0ad55467-b375-42e7-9622-cd9d9c7672bf",
+            "label": "F",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "8ac9bd7a-f8e9-4c51-a2a0-ee697a86e85d",
+            "label": "G",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "0188bc9d-c65f-4081-9608-51a902133f1f",
+            "label": "H",
+            "content": "",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "id": "NWC204_SU25_RE_186cb232-1832-4706-8785-81ceb3c8bf9b",
+        "raw_id": "186cb232-1832-4706-8785-81ceb3c8bf9b",
+        "order_num": 41,
+        "exam_source": "Đề 8 (SU25 RE Ảnh)",
+        "exam_code": "NWC204_SU25_RE",
+        "content": null,
+        "image_url": "images/su25_re_q41.webp",
+        "type": "image",
+        "chapter_name": "Tổng hợp",
+        "correct_answer": "B",
+        "is_multi": false,
+        "correct_count": 1,
+        "options": [
+          {
+            "id": "01e20d4e-4e15-416a-a3a4-e63bf3337c6d",
+            "label": "A",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "f7563af9-9009-48f5-a3d6-d951bc64bcca",
+            "label": "B",
+            "content": "",
+            "is_correct": true
+          },
+          {
+            "id": "b1cfa2a9-9f74-4697-b140-140b4f305eec",
+            "label": "C",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "fdfb34f1-165b-4988-9e76-2e8c4c6b83cd",
+            "label": "D",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "24134c46-974d-4679-a59f-af3cf868946f",
+            "label": "E",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "74b5a9f8-87d1-4198-b479-e2e61071c9a7",
+            "label": "F",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "f36ac456-64ee-442e-ac86-9349db19035a",
+            "label": "G",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "f7599679-43d4-4488-b8db-f80a5fa394a2",
+            "label": "H",
+            "content": "",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "id": "NWC204_SU25_RE_000d2808-1d86-4117-a124-1ebd1ec7faa6",
+        "raw_id": "000d2808-1d86-4117-a124-1ebd1ec7faa6",
+        "order_num": 42,
+        "exam_source": "Đề 8 (SU25 RE Ảnh)",
+        "exam_code": "NWC204_SU25_RE",
+        "content": null,
+        "image_url": "images/su25_re_q42.webp",
+        "type": "image",
+        "chapter_name": "Tổng hợp",
+        "correct_answer": "B",
+        "is_multi": false,
+        "correct_count": 1,
+        "options": [
+          {
+            "id": "d1cc7d66-31d8-42ac-b9ec-aa68df790218",
+            "label": "A",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "ddf8f238-75a0-425e-8019-279c90c442f8",
+            "label": "B",
+            "content": "",
+            "is_correct": true
+          },
+          {
+            "id": "6ca9d1a5-af34-4d29-9bbc-9d2e18c53101",
+            "label": "C",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "6b4b5103-0004-4d7c-b9c6-a42c97ad2adb",
+            "label": "D",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "a072f0f6-8d94-4ac8-991b-fc5be798401d",
+            "label": "E",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "0a7bbea8-47df-4648-9966-45480f2c52b1",
+            "label": "F",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "c902efe7-3e39-4a6f-b311-2566a5af625d",
+            "label": "G",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "0229df39-682b-4c6b-8078-0d2bcfe80aee",
+            "label": "H",
+            "content": "",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "id": "NWC204_SU25_RE_d0cf33ea-de08-465f-8587-cc62abfc3d32",
+        "raw_id": "d0cf33ea-de08-465f-8587-cc62abfc3d32",
+        "order_num": 43,
+        "exam_source": "Đề 8 (SU25 RE Ảnh)",
+        "exam_code": "NWC204_SU25_RE",
+        "content": null,
+        "image_url": "images/su25_re_q43.webp",
+        "type": "image",
+        "chapter_name": "Tổng hợp",
+        "correct_answer": "B",
+        "is_multi": false,
+        "correct_count": 1,
+        "options": [
+          {
+            "id": "cee4a325-d731-4cde-bed9-e3ee1110a435",
+            "label": "A",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "249b0932-af48-44bd-a3fa-6e55237d882f",
+            "label": "B",
+            "content": "",
+            "is_correct": true
+          },
+          {
+            "id": "69af37e4-1150-44d7-befc-d40fb20d4030",
+            "label": "C",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "bde5b26c-3792-4e49-b7ea-bacccfda371a",
+            "label": "D",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "3c148521-8356-418a-99b5-894056391298",
+            "label": "E",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "af0c5ed9-ba46-441a-844f-ed18a30d4359",
+            "label": "F",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "19d44478-862f-4e5a-b286-6d4f51d17381",
+            "label": "G",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "78ff875a-fd63-4201-9f43-084ee977fc38",
+            "label": "H",
+            "content": "",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "id": "NWC204_SU25_RE_03ccde04-f66a-46af-9d3f-438d0c625f06",
+        "raw_id": "03ccde04-f66a-46af-9d3f-438d0c625f06",
+        "order_num": 44,
+        "exam_source": "Đề 8 (SU25 RE Ảnh)",
+        "exam_code": "NWC204_SU25_RE",
+        "content": null,
+        "image_url": "images/su25_re_q44.webp",
+        "type": "image",
+        "chapter_name": "Tổng hợp",
+        "correct_answer": "C",
+        "is_multi": false,
+        "correct_count": 1,
+        "options": [
+          {
+            "id": "3894c274-5837-42b7-8234-ba97767e3c10",
+            "label": "A",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "dac717ef-f257-4dce-b529-da11f6eda30b",
+            "label": "B",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "d7f3565c-84ca-4f7b-92aa-870757bc1c4b",
+            "label": "C",
+            "content": "",
+            "is_correct": true
+          },
+          {
+            "id": "7ac40307-6386-45a6-a07c-b9cc2ee0fbb0",
+            "label": "D",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "644ab7f6-3d1c-40fb-86ab-79f959454d33",
+            "label": "E",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "72b6e754-699b-456a-a11b-efd4e279b74d",
+            "label": "F",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "29d5d4cd-2b4c-4501-9e08-2f8a01f27cfc",
+            "label": "G",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "fb04636b-4c98-4420-b47e-48e2fc13a38f",
+            "label": "H",
+            "content": "",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "id": "NWC204_SU25_RE_934f8f1f-81c2-4e0f-bf7a-b1b0fb7d00d7",
+        "raw_id": "934f8f1f-81c2-4e0f-bf7a-b1b0fb7d00d7",
+        "order_num": 45,
+        "exam_source": "Đề 8 (SU25 RE Ảnh)",
+        "exam_code": "NWC204_SU25_RE",
+        "content": null,
+        "image_url": "images/su25_re_q45.webp",
+        "type": "image",
+        "chapter_name": "Tổng hợp",
+        "correct_answer": "A, B, E",
+        "is_multi": true,
+        "correct_count": 3,
+        "options": [
+          {
+            "id": "7aefa713-ff54-4fa7-b384-8f86086cf3e4",
+            "label": "A",
+            "content": "",
+            "is_correct": true
+          },
+          {
+            "id": "3e042c58-b80a-4d64-83e1-df44b363dd7f",
+            "label": "B",
+            "content": "",
+            "is_correct": true
+          },
+          {
+            "id": "63bca4c8-78ed-417e-89f5-bef2c7041e43",
+            "label": "C",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "2db2246f-22fb-4ba7-97f0-d2aaaea1574f",
+            "label": "D",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "df94460e-ec1f-4cb0-a7c5-d17e3118b4b5",
+            "label": "E",
+            "content": "",
+            "is_correct": true
+          },
+          {
+            "id": "3780ddc3-b197-4761-aab9-001bc1aa126d",
+            "label": "F",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "114ba0e9-58fa-41c7-ae24-20035b86d32d",
+            "label": "G",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "bae9911e-f6d0-4cef-9db1-1f45e817ae05",
+            "label": "H",
+            "content": "",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "id": "NWC204_SU25_RE_c7036304-fbcf-4969-a990-364a084f3e81",
+        "raw_id": "c7036304-fbcf-4969-a990-364a084f3e81",
+        "order_num": 46,
+        "exam_source": "Đề 8 (SU25 RE Ảnh)",
+        "exam_code": "NWC204_SU25_RE",
+        "content": null,
+        "image_url": "images/su25_re_q46.webp",
+        "type": "image",
+        "chapter_name": "Tổng hợp",
+        "correct_answer": "C",
+        "is_multi": false,
+        "correct_count": 1,
+        "options": [
+          {
+            "id": "c2cb7e8e-ed3f-4395-84c1-9dd7dbe8c009",
+            "label": "A",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "67bb8e78-64d4-4500-b288-368176af027e",
+            "label": "B",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "d5249c02-596e-410c-9de8-003eafccac46",
+            "label": "C",
+            "content": "",
+            "is_correct": true
+          },
+          {
+            "id": "1a17f16d-f34c-4c27-a8ed-a9663b8fb566",
+            "label": "D",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "6137bf62-48a0-40d8-8f92-18a97acbe34e",
+            "label": "E",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "6f5de33f-b88e-410f-b8a1-6b8899c7d368",
+            "label": "F",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "6fa1a01b-20f5-461d-b25d-b9819e8f8e27",
+            "label": "G",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "0c4d6440-acb6-46ce-a478-12863e1fe69e",
+            "label": "H",
+            "content": "",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "id": "NWC204_SU25_RE_3f761f8f-51bc-43ff-b0d3-83cfbf495bcd",
+        "raw_id": "3f761f8f-51bc-43ff-b0d3-83cfbf495bcd",
+        "order_num": 47,
+        "exam_source": "Đề 8 (SU25 RE Ảnh)",
+        "exam_code": "NWC204_SU25_RE",
+        "content": null,
+        "image_url": "images/su25_re_q47.webp",
+        "type": "image",
+        "chapter_name": "Tổng hợp",
+        "correct_answer": "D",
+        "is_multi": false,
+        "correct_count": 1,
+        "options": [
+          {
+            "id": "da627ad6-4e74-42ac-9d37-a92d54c08567",
+            "label": "A",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "fe6a00c6-8cd7-4aaa-8556-d0fc74995f61",
+            "label": "B",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "b4b5f272-818a-45be-8286-66b9864cbe76",
+            "label": "C",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "16f92d7e-8ab0-453a-88df-d7cc3a5cf156",
+            "label": "D",
+            "content": "",
+            "is_correct": true
+          },
+          {
+            "id": "30a1e9c8-a0a3-4977-b109-233f90eab038",
+            "label": "E",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "fd180e10-46ec-4c41-bbe4-70e2dff9435e",
+            "label": "F",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "813dac58-bca3-4833-954c-79d03f39398f",
+            "label": "G",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "0482c11e-4218-4e17-be75-b1603fcfdc3d",
+            "label": "H",
+            "content": "",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "id": "NWC204_SU25_RE_ce3c946a-58b3-4780-8367-450ebe9ae97e",
+        "raw_id": "ce3c946a-58b3-4780-8367-450ebe9ae97e",
+        "order_num": 48,
+        "exam_source": "Đề 8 (SU25 RE Ảnh)",
+        "exam_code": "NWC204_SU25_RE",
+        "content": null,
+        "image_url": "images/su25_re_q48.webp",
+        "type": "image",
+        "chapter_name": "Tổng hợp",
+        "correct_answer": "B",
+        "is_multi": false,
+        "correct_count": 1,
+        "options": [
+          {
+            "id": "5e69e9e3-cf53-42f6-a42b-d665867e648d",
+            "label": "A",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "0c4af2a1-18f0-4468-ab54-f0d37b2345aa",
+            "label": "B",
+            "content": "",
+            "is_correct": true
+          },
+          {
+            "id": "225c8872-7fb0-46f5-b59b-0c37d0988ba0",
+            "label": "C",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "ab3258f2-f751-4d0b-9102-40653a3bb23e",
+            "label": "D",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "c6a5cebc-25bb-4d56-b0de-4cfd30d9e672",
+            "label": "E",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "547a0d07-758e-40f0-9415-f81e9c3bdf4f",
+            "label": "F",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "e1086bbf-fc1c-4842-891b-b8921c53cddd",
+            "label": "G",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "2a1acc43-d09d-458a-be35-e7ad12a98be2",
+            "label": "H",
+            "content": "",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "id": "NWC204_SU25_RE_4dff5926-a9b2-4d18-9721-f21e5476fa61",
+        "raw_id": "4dff5926-a9b2-4d18-9721-f21e5476fa61",
+        "order_num": 49,
+        "exam_source": "Đề 8 (SU25 RE Ảnh)",
+        "exam_code": "NWC204_SU25_RE",
+        "content": null,
+        "image_url": "images/su25_re_q49.webp",
+        "type": "image",
+        "chapter_name": "Tổng hợp",
+        "correct_answer": "A, E",
+        "is_multi": true,
+        "correct_count": 2,
+        "options": [
+          {
+            "id": "81e4381d-2154-4a99-9a04-02244cc6aac6",
+            "label": "A",
+            "content": "",
+            "is_correct": true
+          },
+          {
+            "id": "f61cfe61-5b1a-4792-a326-2c4b180c6d35",
+            "label": "B",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "6e958a55-5293-4de2-b57f-30094635d99c",
+            "label": "C",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "95738c81-f035-43dd-9b6c-1bfba6846e17",
+            "label": "D",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "84e5ac06-770a-4237-a85e-cf4df7d1279f",
+            "label": "E",
+            "content": "",
+            "is_correct": true
+          },
+          {
+            "id": "357ac94f-c36b-447d-b0d9-d147db76a1db",
+            "label": "F",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "192c5e80-fda4-4235-bcaf-e23c7cf58226",
+            "label": "G",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "5d0c5f04-13c8-4a3f-9f94-8208d66501db",
+            "label": "H",
+            "content": "",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "id": "NWC204_SU25_RE_d3218991-4128-4386-a08c-b2ad6e288c82",
+        "raw_id": "d3218991-4128-4386-a08c-b2ad6e288c82",
+        "order_num": 50,
+        "exam_source": "Đề 8 (SU25 RE Ảnh)",
+        "exam_code": "NWC204_SU25_RE",
+        "content": null,
+        "image_url": "images/su25_re_q50.webp",
+        "type": "image",
+        "chapter_name": "Tổng hợp",
+        "correct_answer": "B, C",
+        "is_multi": true,
+        "correct_count": 2,
+        "options": [
+          {
+            "id": "6d93b69a-5aaf-477b-9735-4e5cacd91c53",
+            "label": "A",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "f4086e46-f1bd-481b-9d31-e7dd134a3744",
+            "label": "B",
+            "content": "",
+            "is_correct": true
+          },
+          {
+            "id": "02872887-a54b-4fdd-b39c-8b8bb76f240b",
+            "label": "C",
+            "content": "",
+            "is_correct": true
+          },
+          {
+            "id": "b2bc927d-e349-410a-bb44-8fd304b30ff3",
+            "label": "D",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "4aabbee2-6861-45d7-873a-45d1ba99e329",
+            "label": "E",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "e2d125c0-a18f-4706-9fe9-cc2427fe32ba",
+            "label": "F",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "f792925c-e55f-44a5-b78a-0dfe3326958d",
+            "label": "G",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "09f55f82-4797-4b85-90b2-cbabb7084579",
+            "label": "H",
+            "content": "",
+            "is_correct": false
+          }
+        ]
+      }
+    ],
+    "counts": {
+      "B": 13,
+      "A, B, C": 1,
+      "B, D": 2,
+      "B, C": 2,
+      "C": 14,
+      "C, D": 1,
+      "D": 5,
+      "A": 6,
+      "E, F": 1,
+      "A, C, D": 1,
+      "B, E, F": 1,
+      "A, D": 1,
+      "A, B, E": 1,
+      "A, E": 1
+    },
+    "total": 50
+  },
+  {
     "id": "exam_all",
-    "code": "ALL_350",
-    "title": "TỔNG HỢP CẢ 7 ĐỀ (350 CÂU TOÀN DIỆN)",
-    "shortTitle": "🔥 Tổng Hợp 7 Đề (350 Câu)",
+    "code": "ALL_400",
+    "title": "TỔNG HỢP CẢ 8 ĐỀ (400 CÂU TOÀN DIỆN)",
+    "shortTitle": "🔥 Tổng Hợp 8 Đề (400 Câu)",
     "type": "mixed",
     "isAll": true,
     "questions": [
@@ -40328,37 +43555,3238 @@ var EXAMS_DATA = [
             "is_correct": false
           }
         ]
+      },
+      {
+        "id": "NWC204_SU25_RE_1eb42649-68a7-49a7-a827-e65a34dc2b33",
+        "raw_id": "1eb42649-68a7-49a7-a827-e65a34dc2b33",
+        "order_num": 1,
+        "exam_source": "Đề 8 (SU25 RE Ảnh)",
+        "exam_code": "NWC204_SU25_RE",
+        "content": null,
+        "image_url": "images/su25_re_q01.webp",
+        "type": "image",
+        "chapter_name": "Tổng hợp",
+        "correct_answer": "B",
+        "is_multi": false,
+        "correct_count": 1,
+        "options": [
+          {
+            "id": "0f8d0376-0954-4ce4-8484-942a54a4e0c8",
+            "label": "A",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "b814484a-20af-4e26-94a9-633d10a35924",
+            "label": "B",
+            "content": "",
+            "is_correct": true
+          },
+          {
+            "id": "7062c22c-c3f4-4d17-abcd-746bdcfc11bd",
+            "label": "C",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "1c272577-6914-4177-80ec-f15819fda5b5",
+            "label": "D",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "ec529e10-3e01-406a-87c6-14874a169ecc",
+            "label": "E",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "a776b692-83f9-4507-af55-59068f15eca4",
+            "label": "F",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "e7af8249-c50d-459f-bcac-0180c4c8588d",
+            "label": "G",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "11bc91bd-2a63-4afc-b67e-095002b15cbd",
+            "label": "H",
+            "content": "",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "id": "NWC204_SU25_RE_e594603b-3a01-4c56-9a6b-d16662541c53",
+        "raw_id": "e594603b-3a01-4c56-9a6b-d16662541c53",
+        "order_num": 2,
+        "exam_source": "Đề 8 (SU25 RE Ảnh)",
+        "exam_code": "NWC204_SU25_RE",
+        "content": null,
+        "image_url": "images/su25_re_q02.webp",
+        "type": "image",
+        "chapter_name": "Tổng hợp",
+        "correct_answer": "A, B, C",
+        "is_multi": true,
+        "correct_count": 3,
+        "options": [
+          {
+            "id": "c7b8eed8-0a14-4100-b559-b5dde9053d74",
+            "label": "A",
+            "content": "",
+            "is_correct": true
+          },
+          {
+            "id": "9e2f183e-7a97-4952-8795-a20d5630c166",
+            "label": "B",
+            "content": "",
+            "is_correct": true
+          },
+          {
+            "id": "ef70e617-b3f3-4f9d-b6f6-7661929ae6c8",
+            "label": "C",
+            "content": "",
+            "is_correct": true
+          },
+          {
+            "id": "b47777ea-0f1f-4d3e-9253-e919dec949bf",
+            "label": "D",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "1699f2fc-6edf-429d-a33f-f254007a027f",
+            "label": "E",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "ad12e1f3-1576-4f0e-b3b2-fcada5c1c316",
+            "label": "F",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "970d42e7-0789-4d0e-88ce-8df37e6fdde6",
+            "label": "G",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "65de5b4c-3c92-4294-9e7a-4fb062729cfe",
+            "label": "H",
+            "content": "",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "id": "NWC204_SU25_RE_2b752400-0763-4f72-a319-bfcba66ab32c",
+        "raw_id": "2b752400-0763-4f72-a319-bfcba66ab32c",
+        "order_num": 3,
+        "exam_source": "Đề 8 (SU25 RE Ảnh)",
+        "exam_code": "NWC204_SU25_RE",
+        "content": null,
+        "image_url": "images/su25_re_q03.webp",
+        "type": "image",
+        "chapter_name": "Tổng hợp",
+        "correct_answer": "B",
+        "is_multi": false,
+        "correct_count": 1,
+        "options": [
+          {
+            "id": "0004e5ab-d78e-4aca-b5f8-ec6946e6dd0a",
+            "label": "A",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "0a70e0d4-e683-433c-98f5-279026b474df",
+            "label": "B",
+            "content": "",
+            "is_correct": true
+          },
+          {
+            "id": "3535ae94-6028-4013-95e9-c8fe19c8cf35",
+            "label": "C",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "c7384e61-7d07-4219-9d2e-c07c0f5aee49",
+            "label": "D",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "13a215a5-25fe-42b8-a65f-77cb9fc03749",
+            "label": "E",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "09e5fefe-ba74-469c-bd3c-6378ad705246",
+            "label": "F",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "68cda639-a698-47a0-b0a1-99a89c53c6c1",
+            "label": "G",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "3d88fb22-1f67-4fae-80a0-71509c932409",
+            "label": "H",
+            "content": "",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "id": "NWC204_SU25_RE_2affdd18-3168-4124-8c48-052c1ddca5bf",
+        "raw_id": "2affdd18-3168-4124-8c48-052c1ddca5bf",
+        "order_num": 4,
+        "exam_source": "Đề 8 (SU25 RE Ảnh)",
+        "exam_code": "NWC204_SU25_RE",
+        "content": null,
+        "image_url": "images/su25_re_q04.webp",
+        "type": "image",
+        "chapter_name": "Tổng hợp",
+        "correct_answer": "B, D",
+        "is_multi": true,
+        "correct_count": 2,
+        "options": [
+          {
+            "id": "7438f775-c777-487b-8afe-e3b677345412",
+            "label": "A",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "5151b6ba-4b96-41dd-bcd1-e39b46d6b59a",
+            "label": "B",
+            "content": "",
+            "is_correct": true
+          },
+          {
+            "id": "1c5dbbe5-3af4-4376-a310-9c1f9c96df96",
+            "label": "C",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "4569a2fc-6bee-4beb-ae43-e80cdabf5f17",
+            "label": "D",
+            "content": "",
+            "is_correct": true
+          },
+          {
+            "id": "bb198deb-7d9c-4b9e-abae-244deb71290a",
+            "label": "E",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "fc0ad5ee-7624-4152-929f-97c1b4247c8f",
+            "label": "F",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "1f522519-67f9-45c4-b31e-eab19b07e36f",
+            "label": "G",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "7a42c216-e748-4f38-928e-8530f89cd5c6",
+            "label": "H",
+            "content": "",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "id": "NWC204_SU25_RE_c231ae82-30f5-4039-95e0-af4ae3f3b189",
+        "raw_id": "c231ae82-30f5-4039-95e0-af4ae3f3b189",
+        "order_num": 5,
+        "exam_source": "Đề 8 (SU25 RE Ảnh)",
+        "exam_code": "NWC204_SU25_RE",
+        "content": null,
+        "image_url": "images/su25_re_q05.webp",
+        "type": "image",
+        "chapter_name": "Tổng hợp",
+        "correct_answer": "B",
+        "is_multi": false,
+        "correct_count": 1,
+        "options": [
+          {
+            "id": "c05446a1-3279-469a-afb1-55cecfae15ad",
+            "label": "A",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "ce8c1a73-99d0-45fd-a6b4-4e984709a280",
+            "label": "B",
+            "content": "",
+            "is_correct": true
+          },
+          {
+            "id": "6585d68e-afd0-48de-94d4-4b976c1df60b",
+            "label": "C",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "3b72d264-6337-4fd9-9ea0-3d15d009059e",
+            "label": "D",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "091a670e-ff98-47c1-871f-83edbcee68cd",
+            "label": "E",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "841025ff-0e5b-4479-b822-d897463f6e90",
+            "label": "F",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "eb68d797-afa2-45ac-b327-19d3c6c2ac59",
+            "label": "G",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "36a8e7af-49a5-4ee8-846d-678d9df68af2",
+            "label": "H",
+            "content": "",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "id": "NWC204_SU25_RE_f351637e-5521-42b9-b2ee-ad42d3f44943",
+        "raw_id": "f351637e-5521-42b9-b2ee-ad42d3f44943",
+        "order_num": 6,
+        "exam_source": "Đề 8 (SU25 RE Ảnh)",
+        "exam_code": "NWC204_SU25_RE",
+        "content": null,
+        "image_url": "images/su25_re_q06.webp",
+        "type": "image",
+        "chapter_name": "Tổng hợp",
+        "correct_answer": "B, C",
+        "is_multi": true,
+        "correct_count": 2,
+        "options": [
+          {
+            "id": "ba3fcd4a-9f41-4ebe-aff0-5004dd943940",
+            "label": "A",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "ac1a2981-86e4-4f09-b0b0-9fab8083bda9",
+            "label": "B",
+            "content": "",
+            "is_correct": true
+          },
+          {
+            "id": "b06a1398-e38e-4ac4-ba58-9714cf705456",
+            "label": "C",
+            "content": "",
+            "is_correct": true
+          },
+          {
+            "id": "c0054237-c02a-4f9e-b632-bf3251fcd165",
+            "label": "D",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "3ed86fcf-ca4b-47d5-a284-72a371e7b90a",
+            "label": "E",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "5508a051-418a-4c63-870c-32156792b15b",
+            "label": "F",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "20db25c2-e879-41af-86cd-263bc0bfc3c2",
+            "label": "G",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "fa58fc44-ee0d-4ff5-b01b-5655501cd32d",
+            "label": "H",
+            "content": "",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "id": "NWC204_SU25_RE_912727ec-ed53-4db6-8b00-e42e613a6658",
+        "raw_id": "912727ec-ed53-4db6-8b00-e42e613a6658",
+        "order_num": 7,
+        "exam_source": "Đề 8 (SU25 RE Ảnh)",
+        "exam_code": "NWC204_SU25_RE",
+        "content": null,
+        "image_url": "images/su25_re_q07.webp",
+        "type": "image",
+        "chapter_name": "Tổng hợp",
+        "correct_answer": "C",
+        "is_multi": false,
+        "correct_count": 1,
+        "options": [
+          {
+            "id": "62f10988-7869-4317-9011-f5162118a7c5",
+            "label": "A",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "d7c06e2f-533b-4737-8242-f58b42a00cbd",
+            "label": "B",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "c45d4cdb-712c-4065-8fd2-da1e5d2ef6ed",
+            "label": "C",
+            "content": "",
+            "is_correct": true
+          },
+          {
+            "id": "5430a451-be64-4d8f-9577-13e007258703",
+            "label": "D",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "e15e3684-aed4-45f9-8504-0527c05d10de",
+            "label": "E",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "6280a0dc-30f2-47fc-bb2c-4cc1b0a73470",
+            "label": "F",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "8be9e610-bec5-4665-bedb-16a73a8cd9da",
+            "label": "G",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "e6ba5680-f18b-45fd-af58-69a4d1e7e59b",
+            "label": "H",
+            "content": "",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "id": "NWC204_SU25_RE_5a42500e-6703-43c2-9390-7f8e6bfb50a0",
+        "raw_id": "5a42500e-6703-43c2-9390-7f8e6bfb50a0",
+        "order_num": 8,
+        "exam_source": "Đề 8 (SU25 RE Ảnh)",
+        "exam_code": "NWC204_SU25_RE",
+        "content": null,
+        "image_url": "images/su25_re_q08.webp",
+        "type": "image",
+        "chapter_name": "Tổng hợp",
+        "correct_answer": "C, D",
+        "is_multi": true,
+        "correct_count": 2,
+        "options": [
+          {
+            "id": "24a1730a-9b60-429d-b745-70fd40f893a6",
+            "label": "A",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "831ffbbb-1bfb-4f06-85fd-235a22511cb5",
+            "label": "B",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "610b8320-9e74-4892-8203-bffa59eb484f",
+            "label": "C",
+            "content": "",
+            "is_correct": true
+          },
+          {
+            "id": "38dd95c5-fbde-4460-99d9-928693ab284f",
+            "label": "D",
+            "content": "",
+            "is_correct": true
+          },
+          {
+            "id": "3c442a6e-0c2b-4baa-b121-99e96e616533",
+            "label": "E",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "23e8ecba-6f0c-42f8-96cc-3510f2a7e6b2",
+            "label": "F",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "c56bfd95-3673-4205-824b-65ab316f9366",
+            "label": "G",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "34012d84-7f8b-4c19-82e6-4c3b6ce074f4",
+            "label": "H",
+            "content": "",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "id": "NWC204_SU25_RE_f5814f93-5654-4aac-9301-922263313692",
+        "raw_id": "f5814f93-5654-4aac-9301-922263313692",
+        "order_num": 9,
+        "exam_source": "Đề 8 (SU25 RE Ảnh)",
+        "exam_code": "NWC204_SU25_RE",
+        "content": null,
+        "image_url": "images/su25_re_q09.webp",
+        "type": "image",
+        "chapter_name": "Tổng hợp",
+        "correct_answer": "B",
+        "is_multi": false,
+        "correct_count": 1,
+        "options": [
+          {
+            "id": "dc729fe7-8603-4cc7-a812-230134878250",
+            "label": "A",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "be7f1c54-55bc-41d8-ad87-c6421d11c16a",
+            "label": "B",
+            "content": "",
+            "is_correct": true
+          },
+          {
+            "id": "fbf09ed3-bd05-43cb-ab7e-f6fa815e90d4",
+            "label": "C",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "992e4a78-a273-4be7-869c-deb1a6bf79c9",
+            "label": "D",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "28bf3762-09de-4063-9066-7166e738e18a",
+            "label": "E",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "fb9d8b60-7eca-416d-90bb-9e1cf37bce75",
+            "label": "F",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "5b50d4ce-aec8-4950-9985-a6ef8f986ede",
+            "label": "G",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "2ae480fe-de7c-4a1b-b608-cc1dc3c351ef",
+            "label": "H",
+            "content": "",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "id": "NWC204_SU25_RE_babfb3ac-7912-460c-be31-3897ef3770a5",
+        "raw_id": "babfb3ac-7912-460c-be31-3897ef3770a5",
+        "order_num": 10,
+        "exam_source": "Đề 8 (SU25 RE Ảnh)",
+        "exam_code": "NWC204_SU25_RE",
+        "content": null,
+        "image_url": "images/su25_re_q10.webp",
+        "type": "image",
+        "chapter_name": "Tổng hợp",
+        "correct_answer": "D",
+        "is_multi": false,
+        "correct_count": 1,
+        "options": [
+          {
+            "id": "dec9e040-e981-4f76-bd6d-03c106b39ad1",
+            "label": "A",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "56caf271-5d17-44ef-8ec4-1d947c24e293",
+            "label": "B",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "4977c037-7a23-4a01-bd50-28a7c88ab66d",
+            "label": "C",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "c19c1ada-8ad3-4186-9e61-354ba8dde518",
+            "label": "D",
+            "content": "",
+            "is_correct": true
+          },
+          {
+            "id": "20f4f098-32e5-4716-98bc-23e2dba83842",
+            "label": "E",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "1878196b-3d8a-480a-a7f3-f329cd4e52c5",
+            "label": "F",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "a436d413-7273-4bf8-91ee-3e61e1983fea",
+            "label": "G",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "5e78069e-2283-4651-9947-9c72948d58b6",
+            "label": "H",
+            "content": "",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "id": "NWC204_SU25_RE_00032d4e-b2b5-41cd-bef0-59a36e083b2d",
+        "raw_id": "00032d4e-b2b5-41cd-bef0-59a36e083b2d",
+        "order_num": 11,
+        "exam_source": "Đề 8 (SU25 RE Ảnh)",
+        "exam_code": "NWC204_SU25_RE",
+        "content": null,
+        "image_url": "images/su25_re_q11.webp",
+        "type": "image",
+        "chapter_name": "Tổng hợp",
+        "correct_answer": "B",
+        "is_multi": false,
+        "correct_count": 1,
+        "options": [
+          {
+            "id": "b268b5a6-dce3-4c0a-9ef9-9d3af407a64f",
+            "label": "A",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "6c9b0213-d85a-4283-b5d5-8ddbc2bc97b3",
+            "label": "B",
+            "content": "",
+            "is_correct": true
+          },
+          {
+            "id": "80013a97-7790-48b5-a0df-ffa1e8e087d9",
+            "label": "C",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "dff43236-69f2-451e-b63c-f3b4623555bf",
+            "label": "D",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "957fc4fd-0c53-4b4b-b0b7-f56d8dcb4469",
+            "label": "E",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "4b6c59d2-44ef-46f5-90d3-d0339b3b9476",
+            "label": "F",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "2c0bc53f-0089-4e71-a339-e38dd8dc829a",
+            "label": "G",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "f629bc01-f906-4fe4-a759-404b9df7a499",
+            "label": "H",
+            "content": "",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "id": "NWC204_SU25_RE_ae181129-5862-4092-885a-e5de3516dca7",
+        "raw_id": "ae181129-5862-4092-885a-e5de3516dca7",
+        "order_num": 12,
+        "exam_source": "Đề 8 (SU25 RE Ảnh)",
+        "exam_code": "NWC204_SU25_RE",
+        "content": null,
+        "image_url": "images/su25_re_q12.webp",
+        "type": "image",
+        "chapter_name": "Tổng hợp",
+        "correct_answer": "A",
+        "is_multi": false,
+        "correct_count": 1,
+        "options": [
+          {
+            "id": "ea5205d9-bf0d-4117-9cd2-06e44ca5f910",
+            "label": "A",
+            "content": "",
+            "is_correct": true
+          },
+          {
+            "id": "94c36b82-1965-46aa-b88f-9d696d9ca029",
+            "label": "B",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "d0839aef-7f7d-47df-85ee-b77e15afda9a",
+            "label": "C",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "6df64d01-08a5-4da9-b7ca-b96325a4bb31",
+            "label": "D",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "8722f7ab-040d-4d94-bafe-9690f35e6d50",
+            "label": "E",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "26110645-8f3c-4548-9ad2-0f52950d068c",
+            "label": "F",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "f10433b3-6bc6-4316-b0af-69c00d765518",
+            "label": "G",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "4634fef9-661c-47ae-8320-69a236127137",
+            "label": "H",
+            "content": "",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "id": "NWC204_SU25_RE_3c23adea-f069-4219-ad45-cf329efe6238",
+        "raw_id": "3c23adea-f069-4219-ad45-cf329efe6238",
+        "order_num": 13,
+        "exam_source": "Đề 8 (SU25 RE Ảnh)",
+        "exam_code": "NWC204_SU25_RE",
+        "content": null,
+        "image_url": "images/su25_re_q13.webp",
+        "type": "image",
+        "chapter_name": "Tổng hợp",
+        "correct_answer": "D",
+        "is_multi": false,
+        "correct_count": 1,
+        "options": [
+          {
+            "id": "37650f43-4f40-4a67-b5c7-898b5665dde3",
+            "label": "A",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "722b698a-0a35-4720-a5d9-14f8526bd754",
+            "label": "B",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "4387ac7e-8feb-4c1e-9511-c261b4ccc2de",
+            "label": "C",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "4e14dcf7-1bbc-48ee-aad8-1ea9db8b0c01",
+            "label": "D",
+            "content": "",
+            "is_correct": true
+          },
+          {
+            "id": "2f4754f1-27f4-45ad-b4db-2743dabba725",
+            "label": "E",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "a074c5b4-737f-4502-9453-a897fd163abd",
+            "label": "F",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "902747d4-67cb-457d-a31b-92055450d4ef",
+            "label": "G",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "0237bd5b-2058-49de-96a6-49a9f610297d",
+            "label": "H",
+            "content": "",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "id": "NWC204_SU25_RE_6037f9c8-4b75-4037-883f-174b9965f0f7",
+        "raw_id": "6037f9c8-4b75-4037-883f-174b9965f0f7",
+        "order_num": 14,
+        "exam_source": "Đề 8 (SU25 RE Ảnh)",
+        "exam_code": "NWC204_SU25_RE",
+        "content": null,
+        "image_url": "images/su25_re_q14.webp",
+        "type": "image",
+        "chapter_name": "Tổng hợp",
+        "correct_answer": "B",
+        "is_multi": false,
+        "correct_count": 1,
+        "options": [
+          {
+            "id": "01e58bf5-f16c-4fe3-aaf3-310e3f3c9251",
+            "label": "A",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "e150e575-e9b8-4122-9ea8-8c6e57f21a68",
+            "label": "B",
+            "content": "",
+            "is_correct": true
+          },
+          {
+            "id": "c8ad1298-4fbd-42ac-ad64-bc5a83c3d8c4",
+            "label": "C",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "d50b2d1c-2e56-4cf3-9cb8-9cdb22a87dfb",
+            "label": "D",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "66efd422-dfbd-42c9-8bb4-47d5b1b22424",
+            "label": "E",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "d07cac80-ad07-48f3-8fd3-2dab5ab3fb9b",
+            "label": "F",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "b221f6dc-edcd-4d2a-a768-c0a5bfd9b538",
+            "label": "G",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "d77bb0a0-d081-4f36-aede-853bda10322f",
+            "label": "H",
+            "content": "",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "id": "NWC204_SU25_RE_bae0a5f5-6c39-4efa-beed-63a48fa7c9a9",
+        "raw_id": "bae0a5f5-6c39-4efa-beed-63a48fa7c9a9",
+        "order_num": 15,
+        "exam_source": "Đề 8 (SU25 RE Ảnh)",
+        "exam_code": "NWC204_SU25_RE",
+        "content": null,
+        "image_url": "images/su25_re_q15.webp",
+        "type": "image",
+        "chapter_name": "Tổng hợp",
+        "correct_answer": "D",
+        "is_multi": false,
+        "correct_count": 1,
+        "options": [
+          {
+            "id": "134232ec-d7fa-4a76-abc9-617d30f2078e",
+            "label": "A",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "f7601026-f1a7-4e61-8e50-679ee01dcb42",
+            "label": "B",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "1da9c129-2578-4e51-b2aa-30b448b2d693",
+            "label": "C",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "ed60bd59-a35b-4253-a41a-589a3b84458a",
+            "label": "D",
+            "content": "",
+            "is_correct": true
+          },
+          {
+            "id": "cc52c707-8510-4bb9-b1f5-19120dfb8d85",
+            "label": "E",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "35350388-e044-47b7-a7df-18c0855be17f",
+            "label": "F",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "2d9ccd09-326f-47a5-b4cc-7e61e50958cb",
+            "label": "G",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "42b50f81-b82e-482b-81ac-8a65b6bc52b3",
+            "label": "H",
+            "content": "",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "id": "NWC204_SU25_RE_24c261f4-b560-41bc-bdab-5d10c71bfeae",
+        "raw_id": "24c261f4-b560-41bc-bdab-5d10c71bfeae",
+        "order_num": 16,
+        "exam_source": "Đề 8 (SU25 RE Ảnh)",
+        "exam_code": "NWC204_SU25_RE",
+        "content": null,
+        "image_url": "images/su25_re_q16.webp",
+        "type": "image",
+        "chapter_name": "Tổng hợp",
+        "correct_answer": "C",
+        "is_multi": false,
+        "correct_count": 1,
+        "options": [
+          {
+            "id": "ce8968d6-9717-4f59-8b5c-ccdedbad73cd",
+            "label": "A",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "c53170f1-68f0-443d-a031-2ba5907f9fa1",
+            "label": "B",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "c3149060-904c-478e-9072-8d9e0a6ba921",
+            "label": "C",
+            "content": "",
+            "is_correct": true
+          },
+          {
+            "id": "dccb5393-d83d-4dd8-81dc-7cb6155adb5a",
+            "label": "D",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "7f4ff7d8-3a6f-4ea1-9976-b9b61b4d883b",
+            "label": "E",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "1378ca26-340a-431f-8498-6fe081c4913f",
+            "label": "F",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "93aec875-b4f3-4034-a8eb-33939cdb0941",
+            "label": "G",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "221cfa88-c749-42ed-a309-a154ed695275",
+            "label": "H",
+            "content": "",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "id": "NWC204_SU25_RE_f5160b72-e1e3-4a5c-b4ac-3ae16e703ecc",
+        "raw_id": "f5160b72-e1e3-4a5c-b4ac-3ae16e703ecc",
+        "order_num": 17,
+        "exam_source": "Đề 8 (SU25 RE Ảnh)",
+        "exam_code": "NWC204_SU25_RE",
+        "content": null,
+        "image_url": "images/su25_re_q17.webp",
+        "type": "image",
+        "chapter_name": "Tổng hợp",
+        "correct_answer": "A",
+        "is_multi": false,
+        "correct_count": 1,
+        "options": [
+          {
+            "id": "33b90647-9ad4-4771-adce-9b8251b93f9e",
+            "label": "A",
+            "content": "",
+            "is_correct": true
+          },
+          {
+            "id": "ca1a2038-54fd-4c31-9441-95176bdbff12",
+            "label": "B",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "7acbc9b1-2f73-4b18-aae0-1d1bbe0909fb",
+            "label": "C",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "7910f560-f1a3-46da-bde9-cfef89e928e4",
+            "label": "D",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "f29739d7-8db1-4463-aee1-edaad1018323",
+            "label": "E",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "e971e762-6235-47d2-bed5-272cdf6c110e",
+            "label": "F",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "90bb3c68-078e-43ea-8e54-148bf245a179",
+            "label": "G",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "6dc175b8-865d-4818-93d9-73d425789efa",
+            "label": "H",
+            "content": "",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "id": "NWC204_SU25_RE_e2812fc7-87f9-4c46-a657-4fd8bef13829",
+        "raw_id": "e2812fc7-87f9-4c46-a657-4fd8bef13829",
+        "order_num": 18,
+        "exam_source": "Đề 8 (SU25 RE Ảnh)",
+        "exam_code": "NWC204_SU25_RE",
+        "content": null,
+        "image_url": "images/su25_re_q18.webp",
+        "type": "image",
+        "chapter_name": "Tổng hợp",
+        "correct_answer": "A",
+        "is_multi": false,
+        "correct_count": 1,
+        "options": [
+          {
+            "id": "beecda87-2d9a-493d-86de-6dc87ba055d3",
+            "label": "A",
+            "content": "",
+            "is_correct": true
+          },
+          {
+            "id": "17c19d5d-98db-4d8d-a76c-1aeafbef7666",
+            "label": "B",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "1ca62fec-1da0-4248-b85f-d571c2658bad",
+            "label": "C",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "61d9844d-03ac-4a4d-9a0a-b9ad51a75237",
+            "label": "D",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "b324d6fa-a30b-469c-9c01-ee81df6ab611",
+            "label": "E",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "45128d63-246f-48b6-bfee-ac97a3e78df3",
+            "label": "F",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "1df788f1-09e5-4952-979c-4218077ba30c",
+            "label": "G",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "7500f2ee-9089-4fbd-a6b4-ef6478116ff2",
+            "label": "H",
+            "content": "",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "id": "NWC204_SU25_RE_143341bd-b8aa-465d-b627-43a293f4621f",
+        "raw_id": "143341bd-b8aa-465d-b627-43a293f4621f",
+        "order_num": 19,
+        "exam_source": "Đề 8 (SU25 RE Ảnh)",
+        "exam_code": "NWC204_SU25_RE",
+        "content": null,
+        "image_url": "images/su25_re_q19.webp",
+        "type": "image",
+        "chapter_name": "Tổng hợp",
+        "correct_answer": "B",
+        "is_multi": false,
+        "correct_count": 1,
+        "options": [
+          {
+            "id": "2b78ce7e-ad08-4d7c-850c-fe8b5a591487",
+            "label": "A",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "cd5e4f7c-36a7-438c-902f-575aa1c352f6",
+            "label": "B",
+            "content": "",
+            "is_correct": true
+          },
+          {
+            "id": "64331fcf-8c27-4f9f-b0a9-49d8bc76f494",
+            "label": "C",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "ef057c2f-3951-4844-9c22-0dfe1490d6cb",
+            "label": "D",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "48578bdd-b396-4f81-9485-2bc32f3e8a88",
+            "label": "E",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "28669b3e-f2e0-4cdc-8410-358d856fc23c",
+            "label": "F",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "eb45d494-5557-4793-aa75-754a6c51e855",
+            "label": "G",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "e44120ba-81b5-4fd1-b825-7ec76ea5fd1c",
+            "label": "H",
+            "content": "",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "id": "NWC204_SU25_RE_65381e6e-d4f5-48ac-b763-5d4edb537093",
+        "raw_id": "65381e6e-d4f5-48ac-b763-5d4edb537093",
+        "order_num": 20,
+        "exam_source": "Đề 8 (SU25 RE Ảnh)",
+        "exam_code": "NWC204_SU25_RE",
+        "content": null,
+        "image_url": "images/su25_re_q20.webp",
+        "type": "image",
+        "chapter_name": "Tổng hợp",
+        "correct_answer": "E, F",
+        "is_multi": true,
+        "correct_count": 2,
+        "options": [
+          {
+            "id": "0143018d-cf31-475c-861c-df1d1f004b04",
+            "label": "A",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "b1bf61c4-61a0-4d5f-9c7a-c693fec4243c",
+            "label": "B",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "0bfe45cc-fad7-43a7-b620-c55d5836d17b",
+            "label": "C",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "f9e00640-5e42-48f2-b399-dd3ddc459b47",
+            "label": "D",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "f41d34dd-ec67-4b43-8d7b-b1fc54cbbfba",
+            "label": "E",
+            "content": "",
+            "is_correct": true
+          },
+          {
+            "id": "6fa8cc87-99a2-4a3b-8e84-fd445966b377",
+            "label": "F",
+            "content": "",
+            "is_correct": true
+          },
+          {
+            "id": "690d6720-3ab1-4319-bf29-bf739dfe960e",
+            "label": "G",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "5f49c81b-a1c7-44ce-bf6c-b66535e1d258",
+            "label": "H",
+            "content": "",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "id": "NWC204_SU25_RE_4f6dbbd3-2c37-4c19-a934-08500dd380be",
+        "raw_id": "4f6dbbd3-2c37-4c19-a934-08500dd380be",
+        "order_num": 21,
+        "exam_source": "Đề 8 (SU25 RE Ảnh)",
+        "exam_code": "NWC204_SU25_RE",
+        "content": null,
+        "image_url": "images/su25_re_q21.webp",
+        "type": "image",
+        "chapter_name": "Tổng hợp",
+        "correct_answer": "B",
+        "is_multi": false,
+        "correct_count": 1,
+        "options": [
+          {
+            "id": "41f4986f-c69f-4cb8-beca-bf57c779fc88",
+            "label": "A",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "9a5edd9f-275a-4b71-9d5f-662e5bb9fbab",
+            "label": "B",
+            "content": "",
+            "is_correct": true
+          },
+          {
+            "id": "cbfbb44a-c628-4171-b56a-414add820e36",
+            "label": "C",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "375ebd15-9017-476f-ae69-52e4ba716d3c",
+            "label": "D",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "a55da9d4-c05a-4384-8f8a-1406b0d558ef",
+            "label": "E",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "0eb5f531-a2fd-42d8-81af-161c44ccb02a",
+            "label": "F",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "ecb0acf1-ec5c-4346-9109-c1e88b7b4dcc",
+            "label": "G",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "e11f219a-3997-4841-aafe-184398cc6574",
+            "label": "H",
+            "content": "",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "id": "NWC204_SU25_RE_646e29db-bdd2-4e31-81a7-534e521219d2",
+        "raw_id": "646e29db-bdd2-4e31-81a7-534e521219d2",
+        "order_num": 22,
+        "exam_source": "Đề 8 (SU25 RE Ảnh)",
+        "exam_code": "NWC204_SU25_RE",
+        "content": null,
+        "image_url": "images/su25_re_q22.webp",
+        "type": "image",
+        "chapter_name": "Tổng hợp",
+        "correct_answer": "C",
+        "is_multi": false,
+        "correct_count": 1,
+        "options": [
+          {
+            "id": "aadbebb1-58a2-43a6-a068-b155916f222f",
+            "label": "A",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "7ec7f48e-860a-447e-96c1-ba557dc7ecc1",
+            "label": "B",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "7cb5ea72-45cf-4739-a5d0-9554290b1a7e",
+            "label": "C",
+            "content": "",
+            "is_correct": true
+          },
+          {
+            "id": "30e3a60c-2542-4445-8a6a-b4c3bd5e6711",
+            "label": "D",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "051f963a-f587-47f3-a2f5-6271c2a576ec",
+            "label": "E",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "23cefb46-9c90-4cb2-8b4c-682c084def7e",
+            "label": "F",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "78ccd1a3-b5c7-401b-834c-a085f9b58fd1",
+            "label": "G",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "2f67f26b-934d-45d8-89fa-7d2b70f953f3",
+            "label": "H",
+            "content": "",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "id": "NWC204_SU25_RE_766e0b4d-d7ea-4ef7-97bc-666096fe3965",
+        "raw_id": "766e0b4d-d7ea-4ef7-97bc-666096fe3965",
+        "order_num": 23,
+        "exam_source": "Đề 8 (SU25 RE Ảnh)",
+        "exam_code": "NWC204_SU25_RE",
+        "content": null,
+        "image_url": "images/su25_re_q23.webp",
+        "type": "image",
+        "chapter_name": "Tổng hợp",
+        "correct_answer": "C",
+        "is_multi": false,
+        "correct_count": 1,
+        "options": [
+          {
+            "id": "0ac8625d-e155-4862-8687-6168be3fc306",
+            "label": "A",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "435de3da-d23c-4d9a-9da9-8454c796923f",
+            "label": "B",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "5fa2f3ab-d320-413d-b2d5-659fe786f8c8",
+            "label": "C",
+            "content": "",
+            "is_correct": true
+          },
+          {
+            "id": "28160a52-bbc0-4b95-a488-10d5e8bd4976",
+            "label": "D",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "7cd8a959-96d2-4b12-b487-32358aa2df35",
+            "label": "E",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "b9069955-9601-451a-b723-11234a4389f4",
+            "label": "F",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "5179c7ed-9629-4497-b423-7f8b0885e812",
+            "label": "G",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "e1f09d4f-4c6f-4df3-a6f8-ad53ffd7ed7d",
+            "label": "H",
+            "content": "",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "id": "NWC204_SU25_RE_1bfcfdda-6d82-42c1-b12a-7cbfe3bfc5b7",
+        "raw_id": "1bfcfdda-6d82-42c1-b12a-7cbfe3bfc5b7",
+        "order_num": 24,
+        "exam_source": "Đề 8 (SU25 RE Ảnh)",
+        "exam_code": "NWC204_SU25_RE",
+        "content": null,
+        "image_url": "images/su25_re_q24.webp",
+        "type": "image",
+        "chapter_name": "Tổng hợp",
+        "correct_answer": "C",
+        "is_multi": false,
+        "correct_count": 1,
+        "options": [
+          {
+            "id": "36c58e3a-6d11-40fc-b2db-2932abfbeadd",
+            "label": "A",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "a64379b8-2586-4dd2-9723-9df39d61388d",
+            "label": "B",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "b9cc1c61-111a-4077-b959-fcba3aa1cd28",
+            "label": "C",
+            "content": "",
+            "is_correct": true
+          },
+          {
+            "id": "29fb3f12-51c0-46fc-9ca7-87ec8658ec56",
+            "label": "D",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "500f2d60-5a49-4fc4-b220-2e95cb8d298b",
+            "label": "E",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "06aeb20c-fd23-43be-8f73-8ab0bace9bfd",
+            "label": "F",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "b023f783-2988-4825-ab23-351a68f7d3e0",
+            "label": "G",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "7805a539-69f4-4300-966a-34b94f458af7",
+            "label": "H",
+            "content": "",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "id": "NWC204_SU25_RE_b5848073-95a8-46ac-a11d-86809ebd97bf",
+        "raw_id": "b5848073-95a8-46ac-a11d-86809ebd97bf",
+        "order_num": 25,
+        "exam_source": "Đề 8 (SU25 RE Ảnh)",
+        "exam_code": "NWC204_SU25_RE",
+        "content": null,
+        "image_url": "images/su25_re_q25.webp",
+        "type": "image",
+        "chapter_name": "Tổng hợp",
+        "correct_answer": "A",
+        "is_multi": false,
+        "correct_count": 1,
+        "options": [
+          {
+            "id": "67a455cd-6710-4ff1-b77c-322d781ed2e9",
+            "label": "A",
+            "content": "",
+            "is_correct": true
+          },
+          {
+            "id": "2db12807-3446-4993-aab5-3976a7de4083",
+            "label": "B",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "c5beba29-41f2-440d-8f1a-66f010b6299e",
+            "label": "C",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "22e2c87f-ea5a-47c3-887f-bf7242511742",
+            "label": "D",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "49fa3622-86d4-4877-9d40-0e9d4fe4f7c2",
+            "label": "E",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "31b0c739-780c-471a-92ae-98f7fa615ace",
+            "label": "F",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "a75fb643-0a77-408d-8522-22eac180c358",
+            "label": "G",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "c05aee4a-56f4-48d8-b96a-269752584832",
+            "label": "H",
+            "content": "",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "id": "NWC204_SU25_RE_56066dbb-f4a9-4e76-ba65-de231016a8ab",
+        "raw_id": "56066dbb-f4a9-4e76-ba65-de231016a8ab",
+        "order_num": 26,
+        "exam_source": "Đề 8 (SU25 RE Ảnh)",
+        "exam_code": "NWC204_SU25_RE",
+        "content": null,
+        "image_url": "images/su25_re_q26.webp",
+        "type": "image",
+        "chapter_name": "Tổng hợp",
+        "correct_answer": "B, D",
+        "is_multi": true,
+        "correct_count": 2,
+        "options": [
+          {
+            "id": "aba10df8-63c5-4872-8787-3262275c21c5",
+            "label": "A",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "1bf88a83-60e3-4e2d-8db0-4eb2941e0763",
+            "label": "B",
+            "content": "",
+            "is_correct": true
+          },
+          {
+            "id": "ab5b2928-eef8-4cf3-8717-b2b478da5991",
+            "label": "C",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "75313713-bdfe-48f0-8443-f7d663bcb532",
+            "label": "D",
+            "content": "",
+            "is_correct": true
+          },
+          {
+            "id": "33fa321b-8629-4398-acd5-b6f261379826",
+            "label": "E",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "d036bce5-5609-4a5e-9bbc-f5253cdeaeef",
+            "label": "F",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "8de180ac-6a5f-48b6-8fce-32bff45fee26",
+            "label": "G",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "52f76a4a-31ca-49ab-ac8f-d838f756c175",
+            "label": "H",
+            "content": "",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "id": "NWC204_SU25_RE_eec655e4-8641-4ef8-80ad-e92981da96f3",
+        "raw_id": "eec655e4-8641-4ef8-80ad-e92981da96f3",
+        "order_num": 27,
+        "exam_source": "Đề 8 (SU25 RE Ảnh)",
+        "exam_code": "NWC204_SU25_RE",
+        "content": null,
+        "image_url": "images/su25_re_q27.webp",
+        "type": "image",
+        "chapter_name": "Tổng hợp",
+        "correct_answer": "C",
+        "is_multi": false,
+        "correct_count": 1,
+        "options": [
+          {
+            "id": "e41b4dda-100a-46b1-8a67-3ae9ff6adc5c",
+            "label": "A",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "f6d6f721-d6f7-40e2-939d-b2cc1fa01065",
+            "label": "B",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "e26bdd09-cae6-45c0-abcb-dc718c7fd99d",
+            "label": "C",
+            "content": "",
+            "is_correct": true
+          },
+          {
+            "id": "efdaa78a-0ccf-4110-9151-7b50a3acc7f0",
+            "label": "D",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "71ff5a80-10d5-4f0d-bc31-754afebdd6f8",
+            "label": "E",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "4532145b-b6ce-40c0-9e8e-8c817eb5bca0",
+            "label": "F",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "3401dcf0-a340-4268-a9b7-496f156323ff",
+            "label": "G",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "a3040e80-4c8e-43a5-ae0e-0fada0ee7f0a",
+            "label": "H",
+            "content": "",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "id": "NWC204_SU25_RE_03c32f48-9d4a-4760-a8eb-04fc7a6e01af",
+        "raw_id": "03c32f48-9d4a-4760-a8eb-04fc7a6e01af",
+        "order_num": 28,
+        "exam_source": "Đề 8 (SU25 RE Ảnh)",
+        "exam_code": "NWC204_SU25_RE",
+        "content": null,
+        "image_url": "images/su25_re_q28.webp",
+        "type": "image",
+        "chapter_name": "Tổng hợp",
+        "correct_answer": "C",
+        "is_multi": false,
+        "correct_count": 1,
+        "options": [
+          {
+            "id": "83ee64a6-662c-4f58-b9ca-c546cef3ccfb",
+            "label": "A",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "866afc20-cdef-4ea3-8aa4-30b3b372b8c3",
+            "label": "B",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "8d434557-cf5f-4885-8679-069c259e4bef",
+            "label": "C",
+            "content": "",
+            "is_correct": true
+          },
+          {
+            "id": "08b60a2a-9e40-4312-88aa-fa37af45b814",
+            "label": "D",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "381cdffc-2478-46fb-90d7-7fdd4cc86289",
+            "label": "E",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "4ff41103-1ae1-4d5c-a06e-c8ac5b9fd2f8",
+            "label": "F",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "56239a53-7894-4e94-8da3-8363100509db",
+            "label": "G",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "6bf9a7f9-a95d-460c-ad20-dd6d8b671545",
+            "label": "H",
+            "content": "",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "id": "NWC204_SU25_RE_db2d0f40-d5a5-4b39-acb9-1d8af9a74df8",
+        "raw_id": "db2d0f40-d5a5-4b39-acb9-1d8af9a74df8",
+        "order_num": 29,
+        "exam_source": "Đề 8 (SU25 RE Ảnh)",
+        "exam_code": "NWC204_SU25_RE",
+        "content": null,
+        "image_url": "images/su25_re_q29.webp",
+        "type": "image",
+        "chapter_name": "Tổng hợp",
+        "correct_answer": "C",
+        "is_multi": false,
+        "correct_count": 1,
+        "options": [
+          {
+            "id": "2ff685e6-18d2-4df2-a780-8df7776664d7",
+            "label": "A",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "914ab630-82cd-49e6-ab50-d10a194839bc",
+            "label": "B",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "095a96f8-0c3a-47cd-9c6a-6c4806fa6f8d",
+            "label": "C",
+            "content": "",
+            "is_correct": true
+          },
+          {
+            "id": "c4766a22-e5d4-474b-8cc9-f09588bdbc8e",
+            "label": "D",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "f6047365-c0d4-4a08-a724-c87d8521857d",
+            "label": "E",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "9f142f95-abc3-4971-9a75-42dc282a0cea",
+            "label": "F",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "acbb6344-c6e6-4f15-a160-dcd8a4395132",
+            "label": "G",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "44e77820-3afa-4614-90a7-d2de9c73f2b3",
+            "label": "H",
+            "content": "",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "id": "NWC204_SU25_RE_d2cf381f-101e-407c-a64a-c7b2d87c440c",
+        "raw_id": "d2cf381f-101e-407c-a64a-c7b2d87c440c",
+        "order_num": 30,
+        "exam_source": "Đề 8 (SU25 RE Ảnh)",
+        "exam_code": "NWC204_SU25_RE",
+        "content": null,
+        "image_url": "images/su25_re_q30.webp",
+        "type": "image",
+        "chapter_name": "Tổng hợp",
+        "correct_answer": "C",
+        "is_multi": false,
+        "correct_count": 1,
+        "options": [
+          {
+            "id": "649e8f34-927c-4cab-8fd4-011dd5c8306a",
+            "label": "A",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "88275344-017a-4f9c-8565-b0bd1a1491e0",
+            "label": "B",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "8aca02bf-885d-4c9a-8cf7-93297ba0f9b0",
+            "label": "C",
+            "content": "",
+            "is_correct": true
+          },
+          {
+            "id": "0ac37d5d-c378-4a42-8ec1-c578416c876f",
+            "label": "D",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "39d95a34-58fc-4231-9959-fdf0e5fedfbb",
+            "label": "E",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "e0b95a89-6872-45ba-8dbc-c56923aff977",
+            "label": "F",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "35b92636-53ca-44e3-bb66-911e76c9ae4a",
+            "label": "G",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "a10d95a2-e274-48c0-8eea-656798db313a",
+            "label": "H",
+            "content": "",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "id": "NWC204_SU25_RE_5f8e51cd-3e3b-4790-a65e-142daa54d757",
+        "raw_id": "5f8e51cd-3e3b-4790-a65e-142daa54d757",
+        "order_num": 31,
+        "exam_source": "Đề 8 (SU25 RE Ảnh)",
+        "exam_code": "NWC204_SU25_RE",
+        "content": null,
+        "image_url": "images/su25_re_q31.webp",
+        "type": "image",
+        "chapter_name": "Tổng hợp",
+        "correct_answer": "A",
+        "is_multi": false,
+        "correct_count": 1,
+        "options": [
+          {
+            "id": "caec3b30-bca7-4985-8c12-b4c5366e6596",
+            "label": "A",
+            "content": "",
+            "is_correct": true
+          },
+          {
+            "id": "e0f1f450-fdc9-4f6e-b939-56062c9e5e4c",
+            "label": "B",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "978b355c-1432-4b9d-92c3-b481565ec275",
+            "label": "C",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "0676079e-3fbb-4f06-b9bb-833d15129a60",
+            "label": "D",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "16d2b464-d2d5-4004-9e37-e2be89133a0c",
+            "label": "E",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "2736cef3-ca25-4dcd-8f73-c8f93f48c779",
+            "label": "F",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "52da41cb-1b8f-465e-8c6a-1cd634fc8645",
+            "label": "G",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "ddf8a24c-1162-4432-bcb1-ca75eb410850",
+            "label": "H",
+            "content": "",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "id": "NWC204_SU25_RE_4783bde6-800d-4880-8dbe-fb14e12d293d",
+        "raw_id": "4783bde6-800d-4880-8dbe-fb14e12d293d",
+        "order_num": 32,
+        "exam_source": "Đề 8 (SU25 RE Ảnh)",
+        "exam_code": "NWC204_SU25_RE",
+        "content": null,
+        "image_url": "images/su25_re_q32.webp",
+        "type": "image",
+        "chapter_name": "Tổng hợp",
+        "correct_answer": "D",
+        "is_multi": false,
+        "correct_count": 1,
+        "options": [
+          {
+            "id": "e7938278-2dac-48ac-a922-23d006d18a49",
+            "label": "A",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "7f7dba35-199c-4cf7-8be4-2416d939b06b",
+            "label": "B",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "cef85fae-db3c-46cf-b464-457270a5120c",
+            "label": "C",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "2f878671-9d45-4cab-95ee-11202973a312",
+            "label": "D",
+            "content": "",
+            "is_correct": true
+          },
+          {
+            "id": "3843fd66-3041-4def-bcb3-8cb5504706e3",
+            "label": "E",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "7821b429-1761-41af-9772-03439140be21",
+            "label": "F",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "da12d3bf-57d0-4a3e-afab-6a57c7bbf920",
+            "label": "G",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "4a058750-6541-4cdf-b110-e82db7664e29",
+            "label": "H",
+            "content": "",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "id": "NWC204_SU25_RE_8667c902-36be-421e-85a3-e2c63d513e24",
+        "raw_id": "8667c902-36be-421e-85a3-e2c63d513e24",
+        "order_num": 33,
+        "exam_source": "Đề 8 (SU25 RE Ảnh)",
+        "exam_code": "NWC204_SU25_RE",
+        "content": null,
+        "image_url": "images/su25_re_q33.webp",
+        "type": "image",
+        "chapter_name": "Tổng hợp",
+        "correct_answer": "A, C, D",
+        "is_multi": true,
+        "correct_count": 3,
+        "options": [
+          {
+            "id": "172e4c6d-df9e-4071-ba41-77123731e3a3",
+            "label": "A",
+            "content": "",
+            "is_correct": true
+          },
+          {
+            "id": "c3718393-02a1-493e-a0a1-96824f92652e",
+            "label": "B",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "f262979e-1021-4922-8e0c-e34bcde7d174",
+            "label": "C",
+            "content": "",
+            "is_correct": true
+          },
+          {
+            "id": "1c7f3c14-ab8f-4e25-b630-11871c594857",
+            "label": "D",
+            "content": "",
+            "is_correct": true
+          },
+          {
+            "id": "130e3597-f4e1-4880-a8ca-964958c40675",
+            "label": "E",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "0e2665e6-1e0b-4bfd-b7c7-60dd401e2810",
+            "label": "F",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "513af501-1f93-490a-8f15-4a9d7a8a87cf",
+            "label": "G",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "af926447-7303-48f4-b206-d53f7dda0bd9",
+            "label": "H",
+            "content": "",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "id": "NWC204_SU25_RE_d59f0207-aa02-4223-a55a-84cf14e9bd56",
+        "raw_id": "d59f0207-aa02-4223-a55a-84cf14e9bd56",
+        "order_num": 34,
+        "exam_source": "Đề 8 (SU25 RE Ảnh)",
+        "exam_code": "NWC204_SU25_RE",
+        "content": null,
+        "image_url": "images/su25_re_q34.webp",
+        "type": "image",
+        "chapter_name": "Tổng hợp",
+        "correct_answer": "A",
+        "is_multi": false,
+        "correct_count": 1,
+        "options": [
+          {
+            "id": "2b2793a3-3978-4c22-a1a2-c48a58a8436e",
+            "label": "A",
+            "content": "",
+            "is_correct": true
+          },
+          {
+            "id": "43a1ab75-eeb9-4535-8140-92ca9a222cce",
+            "label": "B",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "aa4062b2-5072-46c0-a306-1fac1a62e448",
+            "label": "C",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "d09df372-d24d-4937-850d-b6d827034b61",
+            "label": "D",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "91c856b0-a970-4bd1-8065-78598907ce2d",
+            "label": "E",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "b0448255-be6f-41b9-bae8-f8663bd2b0be",
+            "label": "F",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "7b584aa8-ba11-4384-af93-0bcb6cc13fb9",
+            "label": "G",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "812d4817-edec-4198-b6ea-76c272881e28",
+            "label": "H",
+            "content": "",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "id": "NWC204_SU25_RE_e46cb7ce-356b-438e-aa85-ac241249d90c",
+        "raw_id": "e46cb7ce-356b-438e-aa85-ac241249d90c",
+        "order_num": 35,
+        "exam_source": "Đề 8 (SU25 RE Ảnh)",
+        "exam_code": "NWC204_SU25_RE",
+        "content": null,
+        "image_url": "images/su25_re_q35.webp",
+        "type": "image",
+        "chapter_name": "Tổng hợp",
+        "correct_answer": "C",
+        "is_multi": false,
+        "correct_count": 1,
+        "options": [
+          {
+            "id": "0546ba59-6e0d-480d-8a2f-73dafc494712",
+            "label": "A",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "fb54bd51-1312-4bcc-aa7b-96a47c72496d",
+            "label": "B",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "47fc5c6a-e0c4-459b-8c83-615a42643e56",
+            "label": "C",
+            "content": "",
+            "is_correct": true
+          },
+          {
+            "id": "c55ef93c-9b79-43d5-a1fe-5165be720821",
+            "label": "D",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "d7e1e334-f819-4d08-9a8e-d64f2a5d7169",
+            "label": "E",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "7032b3b7-288b-409b-acdf-f92b54e340ec",
+            "label": "F",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "e1ecb45b-3c4f-426c-aec5-7f58171000d3",
+            "label": "G",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "9956745c-a984-477d-ae5a-2cf0ed9d74d5",
+            "label": "H",
+            "content": "",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "id": "NWC204_SU25_RE_dd2bb874-b806-470e-843b-5c04b4906108",
+        "raw_id": "dd2bb874-b806-470e-843b-5c04b4906108",
+        "order_num": 36,
+        "exam_source": "Đề 8 (SU25 RE Ảnh)",
+        "exam_code": "NWC204_SU25_RE",
+        "content": null,
+        "image_url": "images/su25_re_q36.webp",
+        "type": "image",
+        "chapter_name": "Tổng hợp",
+        "correct_answer": "B",
+        "is_multi": false,
+        "correct_count": 1,
+        "options": [
+          {
+            "id": "cbee323d-16b9-4631-b904-55dcef999a97",
+            "label": "A",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "f231767f-35ed-43c5-9de8-f590f0dc0073",
+            "label": "B",
+            "content": "",
+            "is_correct": true
+          },
+          {
+            "id": "a78b6a3e-26ce-409e-a74e-be12dc3496c9",
+            "label": "C",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "5c935e98-32e5-4a82-b4c0-6fd8175bda04",
+            "label": "D",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "225beb02-aac8-4694-b931-0663bbd13b7e",
+            "label": "E",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "31b00417-e840-41f8-b4c4-33f15ac8809d",
+            "label": "F",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "088a8c11-a714-4882-82d1-a9dcc7e84674",
+            "label": "G",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "803b3df6-a62f-4050-8cc7-ff2ac230a380",
+            "label": "H",
+            "content": "",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "id": "NWC204_SU25_RE_24c27c5b-0e9c-498b-8645-73b9420d4c33",
+        "raw_id": "24c27c5b-0e9c-498b-8645-73b9420d4c33",
+        "order_num": 37,
+        "exam_source": "Đề 8 (SU25 RE Ảnh)",
+        "exam_code": "NWC204_SU25_RE",
+        "content": null,
+        "image_url": "images/su25_re_q37.webp",
+        "type": "image",
+        "chapter_name": "Tổng hợp",
+        "correct_answer": "B, E, F",
+        "is_multi": true,
+        "correct_count": 3,
+        "options": [
+          {
+            "id": "5b6fb758-8e1c-4dfe-b6ec-430c5b7cea86",
+            "label": "A",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "cf65117c-40a4-45e3-a5d9-b63a587c5480",
+            "label": "B",
+            "content": "",
+            "is_correct": true
+          },
+          {
+            "id": "4e3d1de9-39cc-4210-97bb-70705e9a7a85",
+            "label": "C",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "c4f49701-58ba-4d43-84c2-6a0308ce1a20",
+            "label": "D",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "00410121-6e5b-445f-a7b7-149ae23e9d0e",
+            "label": "E",
+            "content": "",
+            "is_correct": true
+          },
+          {
+            "id": "591f0770-8bcb-4c1f-8ee5-d625d9689b11",
+            "label": "F",
+            "content": "",
+            "is_correct": true
+          },
+          {
+            "id": "eb457027-6c06-481e-81eb-d0d2c5da935f",
+            "label": "G",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "5122111f-d8c6-4920-a659-becf9e51ab59",
+            "label": "H",
+            "content": "",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "id": "NWC204_SU25_RE_3dc899d2-0fa4-4744-8e40-1a770c82220e",
+        "raw_id": "3dc899d2-0fa4-4744-8e40-1a770c82220e",
+        "order_num": 38,
+        "exam_source": "Đề 8 (SU25 RE Ảnh)",
+        "exam_code": "NWC204_SU25_RE",
+        "content": null,
+        "image_url": "images/su25_re_q38.webp",
+        "type": "image",
+        "chapter_name": "Tổng hợp",
+        "correct_answer": "A, D",
+        "is_multi": true,
+        "correct_count": 2,
+        "options": [
+          {
+            "id": "073c1963-f2ca-4be8-a2ad-15b3425bf966",
+            "label": "A",
+            "content": "",
+            "is_correct": true
+          },
+          {
+            "id": "1722ac6c-5d90-4925-8165-ffa87735d183",
+            "label": "B",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "504fa7a5-8078-4225-9198-022c8e35df11",
+            "label": "C",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "9fd54f79-90b3-4750-9e94-7e512dbf4e0e",
+            "label": "D",
+            "content": "",
+            "is_correct": true
+          },
+          {
+            "id": "b2244724-8c6a-4297-b1d1-5cda60bd924a",
+            "label": "E",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "2e65528c-4ecb-44cc-a55c-3f6223988197",
+            "label": "F",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "69aa036b-d68e-4240-bbdb-c72f7d39254b",
+            "label": "G",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "bfb3fa3a-95ae-4182-a888-4bce7c1d76dc",
+            "label": "H",
+            "content": "",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "id": "NWC204_SU25_RE_95b91a7c-da2f-40f0-982e-4f657359ea75",
+        "raw_id": "95b91a7c-da2f-40f0-982e-4f657359ea75",
+        "order_num": 39,
+        "exam_source": "Đề 8 (SU25 RE Ảnh)",
+        "exam_code": "NWC204_SU25_RE",
+        "content": null,
+        "image_url": "images/su25_re_q39.webp",
+        "type": "image",
+        "chapter_name": "Tổng hợp",
+        "correct_answer": "C",
+        "is_multi": false,
+        "correct_count": 1,
+        "options": [
+          {
+            "id": "4727e19b-7b06-4ac8-9493-f64472d97d71",
+            "label": "A",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "f045ddc0-7657-4826-914c-60ce395ef3da",
+            "label": "B",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "55b8b092-0941-4e91-98a3-1c4000de8ee7",
+            "label": "C",
+            "content": "",
+            "is_correct": true
+          },
+          {
+            "id": "d1fa148b-0105-4f36-9341-1b24683547a8",
+            "label": "D",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "c199cbaf-4ce5-45ff-88b8-0675a4c6a67d",
+            "label": "E",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "241448b4-92a8-4bc3-b15f-8343fba95ab5",
+            "label": "F",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "fa392975-fc67-44ad-849b-9fc88356d494",
+            "label": "G",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "f8750f07-9e1f-48c9-a9d9-1ea2baa14004",
+            "label": "H",
+            "content": "",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "id": "NWC204_SU25_RE_61d0a45a-8aac-424a-9c25-c508f081178d",
+        "raw_id": "61d0a45a-8aac-424a-9c25-c508f081178d",
+        "order_num": 40,
+        "exam_source": "Đề 8 (SU25 RE Ảnh)",
+        "exam_code": "NWC204_SU25_RE",
+        "content": null,
+        "image_url": "images/su25_re_q40.webp",
+        "type": "image",
+        "chapter_name": "Tổng hợp",
+        "correct_answer": "C",
+        "is_multi": false,
+        "correct_count": 1,
+        "options": [
+          {
+            "id": "3943a796-a997-4379-a5d7-015e7cde387a",
+            "label": "A",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "9e2a420a-64ac-4668-84e2-a5f79cb1da6e",
+            "label": "B",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "868d6fb6-15c2-4280-ab9b-0288b871b0ad",
+            "label": "C",
+            "content": "",
+            "is_correct": true
+          },
+          {
+            "id": "62d16a69-f57c-4a07-8d2d-9448eb2e6d7c",
+            "label": "D",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "a5cb9fc5-37ab-4fb0-8048-c48a5b8f2526",
+            "label": "E",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "0ad55467-b375-42e7-9622-cd9d9c7672bf",
+            "label": "F",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "8ac9bd7a-f8e9-4c51-a2a0-ee697a86e85d",
+            "label": "G",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "0188bc9d-c65f-4081-9608-51a902133f1f",
+            "label": "H",
+            "content": "",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "id": "NWC204_SU25_RE_186cb232-1832-4706-8785-81ceb3c8bf9b",
+        "raw_id": "186cb232-1832-4706-8785-81ceb3c8bf9b",
+        "order_num": 41,
+        "exam_source": "Đề 8 (SU25 RE Ảnh)",
+        "exam_code": "NWC204_SU25_RE",
+        "content": null,
+        "image_url": "images/su25_re_q41.webp",
+        "type": "image",
+        "chapter_name": "Tổng hợp",
+        "correct_answer": "B",
+        "is_multi": false,
+        "correct_count": 1,
+        "options": [
+          {
+            "id": "01e20d4e-4e15-416a-a3a4-e63bf3337c6d",
+            "label": "A",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "f7563af9-9009-48f5-a3d6-d951bc64bcca",
+            "label": "B",
+            "content": "",
+            "is_correct": true
+          },
+          {
+            "id": "b1cfa2a9-9f74-4697-b140-140b4f305eec",
+            "label": "C",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "fdfb34f1-165b-4988-9e76-2e8c4c6b83cd",
+            "label": "D",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "24134c46-974d-4679-a59f-af3cf868946f",
+            "label": "E",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "74b5a9f8-87d1-4198-b479-e2e61071c9a7",
+            "label": "F",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "f36ac456-64ee-442e-ac86-9349db19035a",
+            "label": "G",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "f7599679-43d4-4488-b8db-f80a5fa394a2",
+            "label": "H",
+            "content": "",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "id": "NWC204_SU25_RE_000d2808-1d86-4117-a124-1ebd1ec7faa6",
+        "raw_id": "000d2808-1d86-4117-a124-1ebd1ec7faa6",
+        "order_num": 42,
+        "exam_source": "Đề 8 (SU25 RE Ảnh)",
+        "exam_code": "NWC204_SU25_RE",
+        "content": null,
+        "image_url": "images/su25_re_q42.webp",
+        "type": "image",
+        "chapter_name": "Tổng hợp",
+        "correct_answer": "B",
+        "is_multi": false,
+        "correct_count": 1,
+        "options": [
+          {
+            "id": "d1cc7d66-31d8-42ac-b9ec-aa68df790218",
+            "label": "A",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "ddf8f238-75a0-425e-8019-279c90c442f8",
+            "label": "B",
+            "content": "",
+            "is_correct": true
+          },
+          {
+            "id": "6ca9d1a5-af34-4d29-9bbc-9d2e18c53101",
+            "label": "C",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "6b4b5103-0004-4d7c-b9c6-a42c97ad2adb",
+            "label": "D",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "a072f0f6-8d94-4ac8-991b-fc5be798401d",
+            "label": "E",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "0a7bbea8-47df-4648-9966-45480f2c52b1",
+            "label": "F",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "c902efe7-3e39-4a6f-b311-2566a5af625d",
+            "label": "G",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "0229df39-682b-4c6b-8078-0d2bcfe80aee",
+            "label": "H",
+            "content": "",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "id": "NWC204_SU25_RE_d0cf33ea-de08-465f-8587-cc62abfc3d32",
+        "raw_id": "d0cf33ea-de08-465f-8587-cc62abfc3d32",
+        "order_num": 43,
+        "exam_source": "Đề 8 (SU25 RE Ảnh)",
+        "exam_code": "NWC204_SU25_RE",
+        "content": null,
+        "image_url": "images/su25_re_q43.webp",
+        "type": "image",
+        "chapter_name": "Tổng hợp",
+        "correct_answer": "B",
+        "is_multi": false,
+        "correct_count": 1,
+        "options": [
+          {
+            "id": "cee4a325-d731-4cde-bed9-e3ee1110a435",
+            "label": "A",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "249b0932-af48-44bd-a3fa-6e55237d882f",
+            "label": "B",
+            "content": "",
+            "is_correct": true
+          },
+          {
+            "id": "69af37e4-1150-44d7-befc-d40fb20d4030",
+            "label": "C",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "bde5b26c-3792-4e49-b7ea-bacccfda371a",
+            "label": "D",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "3c148521-8356-418a-99b5-894056391298",
+            "label": "E",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "af0c5ed9-ba46-441a-844f-ed18a30d4359",
+            "label": "F",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "19d44478-862f-4e5a-b286-6d4f51d17381",
+            "label": "G",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "78ff875a-fd63-4201-9f43-084ee977fc38",
+            "label": "H",
+            "content": "",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "id": "NWC204_SU25_RE_03ccde04-f66a-46af-9d3f-438d0c625f06",
+        "raw_id": "03ccde04-f66a-46af-9d3f-438d0c625f06",
+        "order_num": 44,
+        "exam_source": "Đề 8 (SU25 RE Ảnh)",
+        "exam_code": "NWC204_SU25_RE",
+        "content": null,
+        "image_url": "images/su25_re_q44.webp",
+        "type": "image",
+        "chapter_name": "Tổng hợp",
+        "correct_answer": "C",
+        "is_multi": false,
+        "correct_count": 1,
+        "options": [
+          {
+            "id": "3894c274-5837-42b7-8234-ba97767e3c10",
+            "label": "A",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "dac717ef-f257-4dce-b529-da11f6eda30b",
+            "label": "B",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "d7f3565c-84ca-4f7b-92aa-870757bc1c4b",
+            "label": "C",
+            "content": "",
+            "is_correct": true
+          },
+          {
+            "id": "7ac40307-6386-45a6-a07c-b9cc2ee0fbb0",
+            "label": "D",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "644ab7f6-3d1c-40fb-86ab-79f959454d33",
+            "label": "E",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "72b6e754-699b-456a-a11b-efd4e279b74d",
+            "label": "F",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "29d5d4cd-2b4c-4501-9e08-2f8a01f27cfc",
+            "label": "G",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "fb04636b-4c98-4420-b47e-48e2fc13a38f",
+            "label": "H",
+            "content": "",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "id": "NWC204_SU25_RE_934f8f1f-81c2-4e0f-bf7a-b1b0fb7d00d7",
+        "raw_id": "934f8f1f-81c2-4e0f-bf7a-b1b0fb7d00d7",
+        "order_num": 45,
+        "exam_source": "Đề 8 (SU25 RE Ảnh)",
+        "exam_code": "NWC204_SU25_RE",
+        "content": null,
+        "image_url": "images/su25_re_q45.webp",
+        "type": "image",
+        "chapter_name": "Tổng hợp",
+        "correct_answer": "A, B, E",
+        "is_multi": true,
+        "correct_count": 3,
+        "options": [
+          {
+            "id": "7aefa713-ff54-4fa7-b384-8f86086cf3e4",
+            "label": "A",
+            "content": "",
+            "is_correct": true
+          },
+          {
+            "id": "3e042c58-b80a-4d64-83e1-df44b363dd7f",
+            "label": "B",
+            "content": "",
+            "is_correct": true
+          },
+          {
+            "id": "63bca4c8-78ed-417e-89f5-bef2c7041e43",
+            "label": "C",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "2db2246f-22fb-4ba7-97f0-d2aaaea1574f",
+            "label": "D",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "df94460e-ec1f-4cb0-a7c5-d17e3118b4b5",
+            "label": "E",
+            "content": "",
+            "is_correct": true
+          },
+          {
+            "id": "3780ddc3-b197-4761-aab9-001bc1aa126d",
+            "label": "F",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "114ba0e9-58fa-41c7-ae24-20035b86d32d",
+            "label": "G",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "bae9911e-f6d0-4cef-9db1-1f45e817ae05",
+            "label": "H",
+            "content": "",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "id": "NWC204_SU25_RE_c7036304-fbcf-4969-a990-364a084f3e81",
+        "raw_id": "c7036304-fbcf-4969-a990-364a084f3e81",
+        "order_num": 46,
+        "exam_source": "Đề 8 (SU25 RE Ảnh)",
+        "exam_code": "NWC204_SU25_RE",
+        "content": null,
+        "image_url": "images/su25_re_q46.webp",
+        "type": "image",
+        "chapter_name": "Tổng hợp",
+        "correct_answer": "C",
+        "is_multi": false,
+        "correct_count": 1,
+        "options": [
+          {
+            "id": "c2cb7e8e-ed3f-4395-84c1-9dd7dbe8c009",
+            "label": "A",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "67bb8e78-64d4-4500-b288-368176af027e",
+            "label": "B",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "d5249c02-596e-410c-9de8-003eafccac46",
+            "label": "C",
+            "content": "",
+            "is_correct": true
+          },
+          {
+            "id": "1a17f16d-f34c-4c27-a8ed-a9663b8fb566",
+            "label": "D",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "6137bf62-48a0-40d8-8f92-18a97acbe34e",
+            "label": "E",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "6f5de33f-b88e-410f-b8a1-6b8899c7d368",
+            "label": "F",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "6fa1a01b-20f5-461d-b25d-b9819e8f8e27",
+            "label": "G",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "0c4d6440-acb6-46ce-a478-12863e1fe69e",
+            "label": "H",
+            "content": "",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "id": "NWC204_SU25_RE_3f761f8f-51bc-43ff-b0d3-83cfbf495bcd",
+        "raw_id": "3f761f8f-51bc-43ff-b0d3-83cfbf495bcd",
+        "order_num": 47,
+        "exam_source": "Đề 8 (SU25 RE Ảnh)",
+        "exam_code": "NWC204_SU25_RE",
+        "content": null,
+        "image_url": "images/su25_re_q47.webp",
+        "type": "image",
+        "chapter_name": "Tổng hợp",
+        "correct_answer": "D",
+        "is_multi": false,
+        "correct_count": 1,
+        "options": [
+          {
+            "id": "da627ad6-4e74-42ac-9d37-a92d54c08567",
+            "label": "A",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "fe6a00c6-8cd7-4aaa-8556-d0fc74995f61",
+            "label": "B",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "b4b5f272-818a-45be-8286-66b9864cbe76",
+            "label": "C",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "16f92d7e-8ab0-453a-88df-d7cc3a5cf156",
+            "label": "D",
+            "content": "",
+            "is_correct": true
+          },
+          {
+            "id": "30a1e9c8-a0a3-4977-b109-233f90eab038",
+            "label": "E",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "fd180e10-46ec-4c41-bbe4-70e2dff9435e",
+            "label": "F",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "813dac58-bca3-4833-954c-79d03f39398f",
+            "label": "G",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "0482c11e-4218-4e17-be75-b1603fcfdc3d",
+            "label": "H",
+            "content": "",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "id": "NWC204_SU25_RE_ce3c946a-58b3-4780-8367-450ebe9ae97e",
+        "raw_id": "ce3c946a-58b3-4780-8367-450ebe9ae97e",
+        "order_num": 48,
+        "exam_source": "Đề 8 (SU25 RE Ảnh)",
+        "exam_code": "NWC204_SU25_RE",
+        "content": null,
+        "image_url": "images/su25_re_q48.webp",
+        "type": "image",
+        "chapter_name": "Tổng hợp",
+        "correct_answer": "B",
+        "is_multi": false,
+        "correct_count": 1,
+        "options": [
+          {
+            "id": "5e69e9e3-cf53-42f6-a42b-d665867e648d",
+            "label": "A",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "0c4af2a1-18f0-4468-ab54-f0d37b2345aa",
+            "label": "B",
+            "content": "",
+            "is_correct": true
+          },
+          {
+            "id": "225c8872-7fb0-46f5-b59b-0c37d0988ba0",
+            "label": "C",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "ab3258f2-f751-4d0b-9102-40653a3bb23e",
+            "label": "D",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "c6a5cebc-25bb-4d56-b0de-4cfd30d9e672",
+            "label": "E",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "547a0d07-758e-40f0-9415-f81e9c3bdf4f",
+            "label": "F",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "e1086bbf-fc1c-4842-891b-b8921c53cddd",
+            "label": "G",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "2a1acc43-d09d-458a-be35-e7ad12a98be2",
+            "label": "H",
+            "content": "",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "id": "NWC204_SU25_RE_4dff5926-a9b2-4d18-9721-f21e5476fa61",
+        "raw_id": "4dff5926-a9b2-4d18-9721-f21e5476fa61",
+        "order_num": 49,
+        "exam_source": "Đề 8 (SU25 RE Ảnh)",
+        "exam_code": "NWC204_SU25_RE",
+        "content": null,
+        "image_url": "images/su25_re_q49.webp",
+        "type": "image",
+        "chapter_name": "Tổng hợp",
+        "correct_answer": "A, E",
+        "is_multi": true,
+        "correct_count": 2,
+        "options": [
+          {
+            "id": "81e4381d-2154-4a99-9a04-02244cc6aac6",
+            "label": "A",
+            "content": "",
+            "is_correct": true
+          },
+          {
+            "id": "f61cfe61-5b1a-4792-a326-2c4b180c6d35",
+            "label": "B",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "6e958a55-5293-4de2-b57f-30094635d99c",
+            "label": "C",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "95738c81-f035-43dd-9b6c-1bfba6846e17",
+            "label": "D",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "84e5ac06-770a-4237-a85e-cf4df7d1279f",
+            "label": "E",
+            "content": "",
+            "is_correct": true
+          },
+          {
+            "id": "357ac94f-c36b-447d-b0d9-d147db76a1db",
+            "label": "F",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "192c5e80-fda4-4235-bcaf-e23c7cf58226",
+            "label": "G",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "5d0c5f04-13c8-4a3f-9f94-8208d66501db",
+            "label": "H",
+            "content": "",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "id": "NWC204_SU25_RE_d3218991-4128-4386-a08c-b2ad6e288c82",
+        "raw_id": "d3218991-4128-4386-a08c-b2ad6e288c82",
+        "order_num": 50,
+        "exam_source": "Đề 8 (SU25 RE Ảnh)",
+        "exam_code": "NWC204_SU25_RE",
+        "content": null,
+        "image_url": "images/su25_re_q50.webp",
+        "type": "image",
+        "chapter_name": "Tổng hợp",
+        "correct_answer": "B, C",
+        "is_multi": true,
+        "correct_count": 2,
+        "options": [
+          {
+            "id": "6d93b69a-5aaf-477b-9735-4e5cacd91c53",
+            "label": "A",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "f4086e46-f1bd-481b-9d31-e7dd134a3744",
+            "label": "B",
+            "content": "",
+            "is_correct": true
+          },
+          {
+            "id": "02872887-a54b-4fdd-b39c-8b8bb76f240b",
+            "label": "C",
+            "content": "",
+            "is_correct": true
+          },
+          {
+            "id": "b2bc927d-e349-410a-bb44-8fd304b30ff3",
+            "label": "D",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "4aabbee2-6861-45d7-873a-45d1ba99e329",
+            "label": "E",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "e2d125c0-a18f-4706-9fe9-cc2427fe32ba",
+            "label": "F",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "f792925c-e55f-44a5-b78a-0dfe3326958d",
+            "label": "G",
+            "content": "",
+            "is_correct": false
+          },
+          {
+            "id": "09f55f82-4797-4b85-90b2-cbabb7084579",
+            "label": "H",
+            "content": "",
+            "is_correct": false
+          }
+        ]
       }
     ],
     "counts": {
-      "C": 99,
-      "D": 27,
-      "A": 88,
+      "C": 113,
+      "D": 32,
+      "A": 94,
       "A, B": 11,
-      "B": 81,
-      "B, C": 7,
+      "B": 94,
+      "B, C": 9,
       "C, E": 2,
       "F": 1,
       "C, F": 2,
       "C, E, F": 1,
-      "B, D": 4,
+      "B, D": 6,
       "E": 3,
-      "E, F": 3,
+      "E, F": 4,
       "A, B, D": 3,
-      "A, C, D": 2,
-      "A, D": 4,
+      "A, C, D": 3,
+      "A, D": 5,
       "A, C": 2,
-      "A, E": 2,
+      "A, E": 3,
       "B, C, E": 1,
-      "A, B, C": 1,
-      "C, D": 1,
-      "A, B, E": 1,
+      "A, B, C": 2,
+      "C, D": 2,
+      "A, B, E": 2,
       "A, D, E": 1,
       "B, E": 1,
       "B, D, E": 1,
-      "B, C, D": 1
+      "B, C, D": 1,
+      "B, E, F": 1
     },
-    "total": 350
+    "total": 400
   }
 ];
 if (typeof window !== 'undefined') { window.EXAMS_DATA = EXAMS_DATA; }
